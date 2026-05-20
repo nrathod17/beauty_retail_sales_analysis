@@ -1,0 +1,1001 @@
+Product_ID,Sale_Date,Sales_Rep,Region,Unit_Price,Quantity_Sold,Sales_Amount,Customer_Type,Unit_Cost,Discount,Payment_Method,Sales_Channel,Region_and_Sales_Rep
+1008,2023-01-01,Eve,North,145.0125714,38,5510.477714,Returning,132.4351429,0.05,Cash,Online,North-Eve
+1070,2023-01-01,Eve,South,24.658,12,295.896,Returning,18.98085714,0.25,Bank Transfer,Retail,South-Eve
+1089,2023-01-01,Charlie,North,122.9914286,35,4304.7,New,116.3145714,0.14,Credit Card,Online,North-Charlie
+1064,2023-01-02,David,South,65.20657143,10,652.0657143,Returning,64.05742857,0.2,Credit Card,Online,South-David
+1075,2023-01-02,David,West,130.216,26,3385.616,New,129.5822857,0,Credit Card,Online,West-David
+1027,2023-01-03,Bob,East,32.65771429,30,979.7314286,Returning,21.31228571,0.2,Credit Card,Online,East-Bob
+1087,2023-01-03,Charlie,East,110.8722857,20,2217.445714,New,103.5982857,0.24,Bank Transfer,Online,East-Charlie
+1099,2023-01-03,Bob,East,134.62,31,4173.22,New,132.3671429,0.21,Cash,Retail,East-Bob
+1002,2023-01-04,Bob,East,53.30942857,17,906.2602857,New,49.34628571,0.21,Cash,Online,East-Bob
+1051,2023-01-04,Eve,North,106.0262857,14,1484.368,New,105.3374286,0.1,Bank Transfer,Retail,North-Eve
+1064,2023-01-04,Eve,East,144.9834286,10,1449.834286,New,136.1417143,0.12,Cash,Online,East-Eve
+1074,2023-01-04,Eve,South,52.81971429,38,2007.149143,Returning,39.84971429,0,Bank Transfer,Retail,South-Eve
+1086,2023-01-04,Bob,South,51.372,8,410.976,New,44.83742857,0.07,Credit Card,Online,South-Bob
+1090,2023-01-04,Eve,North,123.5345714,14,1729.484,Returning,115.3488571,0.27,Credit Card,Online,North-Eve
+1023,2023-01-05,Alice,East,26.13628571,2,52.27257143,Returning,16.43771429,0.26,Bank Transfer,Online,East-Alice
+1052,2023-01-05,Bob,North,112.2645714,11,1234.910286,New,98.61685714,0.3,Credit Card,Retail,North-Bob
+1081,2023-01-05,Bob,South,26.80114286,44,1179.250286,Returning,17.67971429,0.03,Cash,Online,South-Bob
+1062,2023-01-06,Eve,East,139.6702857,15,2095.054286,New,135.9014286,0.29,Credit Card,Online,East-Eve
+1087,2023-01-06,Eve,South,113.2757143,46,5210.682857,New,105.786,0.12,Bank Transfer,Online,South-Eve
+1021,2023-01-07,Bob,North,106.5837143,9,959.2534286,New,96.15085714,0.17,Bank Transfer,Online,North-Bob
+1034,2023-01-07,David,West,6.703714286,28,187.704,New,3.927714286,0.27,Bank Transfer,Retail,West-David
+1065,2023-01-07,Eve,North,60.47828571,6,362.8697143,New,57.71142857,0.11,Credit Card,Online,North-Eve
+1069,2023-01-07,Alice,East,61.49142857,6,368.9485714,New,50.53142857,0.25,Bank Transfer,Retail,East-Alice
+1085,2023-01-07,Eve,West,24.07028571,16,385.1245714,New,13.488,0,Cash,Retail,West-Eve
+1039,2023-01-08,Eve,South,33.57771429,4,134.3108571,Returning,30.11771429,0.12,Bank Transfer,Retail,South-Eve
+1041,2023-01-08,David,East,33.43314286,36,1203.593143,Returning,24.70771429,0.11,Cash,Retail,East-David
+1037,2023-01-09,Charlie,North,149.8037143,41,6141.952286,New,141.8591429,0.01,Credit Card,Online,North-Charlie
+1051,2023-01-09,David,South,86.93514286,23,1999.508286,Returning,74.23371429,0.24,Credit Card,Online,South-David
+1057,2023-01-09,Charlie,North,21.32228571,12,255.8674286,Returning,18.26171429,0.04,Bank Transfer,Retail,North-Charlie
+1066,2023-01-09,Alice,North,82.08,48,3939.84,New,73.95828571,0.17,Cash,Online,North-Alice
+1067,2023-01-09,Charlie,North,15.24514286,48,731.7668571,New,6.018,0.04,Bank Transfer,Online,North-Charlie
+1054,2023-01-10,Eve,South,83.69485714,40,3347.794286,Returning,75.83171429,0.08,Cash,Online,South-Eve
+1094,2023-01-10,Eve,North,56.65485714,25,1416.371429,New,55.23971429,0.17,Bank Transfer,Online,North-Eve
+1044,2023-01-11,Eve,North,144.2988571,5,721.4942857,New,136.082,0.25,Cash,Retail,North-Eve
+1060,2023-01-11,Charlie,West,148.1325714,34,5036.507429,New,142.406,0.17,Cash,Online,West-Charlie
+1077,2023-01-11,Eve,North,27.72828571,35,970.49,Returning,16.72485714,0.15,Bank Transfer,Retail,North-Eve
+1084,2023-01-11,Bob,East,18.52257143,21,388.974,Returning,16.47828571,0.2,Bank Transfer,Online,East-Bob
+1088,2023-01-11,Alice,South,111.8688571,11,1230.557429,Returning,110.9751429,0.02,Cash,Online,South-Alice
+1013,2023-01-12,Alice,West,38.63171429,35,1352.11,Returning,37.506,0.22,Bank Transfer,Retail,West-Alice
+1022,2023-01-12,Eve,East,71.56,13,930.28,Returning,66.07,0.06,Bank Transfer,Online,East-Eve
+1045,2023-01-12,Charlie,South,119.676,35,4188.66,New,107.9411429,0.17,Bank Transfer,Online,South-Charlie
+1048,2023-01-12,Charlie,East,30.50457143,47,1433.714857,New,20.06971429,0.24,Cash,Retail,East-Charlie
+1078,2023-01-12,Eve,East,138.6688571,36,4992.078857,Returning,129.968,0.25,Credit Card,Retail,East-Eve
+1087,2023-01-12,Charlie,North,113.9628571,21,2393.22,New,106.4108571,0.03,Bank Transfer,Retail,North-Charlie
+1094,2023-01-12,Eve,West,109.1514286,38,4147.754286,Returning,98.39942857,0.01,Credit Card,Retail,West-Eve
+1012,2023-01-13,Alice,East,99.02257143,39,3861.880286,New,89.32914286,0.08,Cash,Online,East-Alice
+1090,2023-01-13,Alice,East,81.13514286,17,1379.297429,Returning,68.08514286,0.23,Bank Transfer,Retail,East-Alice
+1024,2023-01-14,Bob,South,87.02685714,45,3916.208571,New,76.97114286,0.01,Cash,Retail,South-Bob
+1033,2023-01-14,Alice,West,39.07885714,24,937.8925714,New,38.44771429,0.06,Bank Transfer,Online,West-Alice
+1056,2023-01-14,Charlie,West,73.83857143,25,1845.964286,Returning,67.47828571,0.2,Cash,Online,West-Charlie
+1058,2023-01-14,Bob,East,142.8222857,6,856.9337143,Returning,142.506,0.17,Cash,Retail,East-Bob
+1017,2023-01-15,Eve,North,88.02971429,6,528.1782857,Returning,74.12628571,0.1,Bank Transfer,Retail,North-Eve
+1027,2023-01-15,Bob,West,13.64771429,26,354.8405714,Returning,4.260285714,0.14,Cash,Retail,West-Bob
+1040,2023-01-15,Charlie,North,21.94457143,19,416.9468571,Returning,9.78,0.09,Credit Card,Online,North-Charlie
+1042,2023-01-15,David,South,67.63171429,46,3111.058857,New,62.068,0.16,Cash,Retail,South-David
+1094,2023-01-15,Bob,North,134.1582857,45,6037.122857,Returning,127.7402857,0.06,Cash,Retail,North-Bob
+1013,2023-01-16,Eve,East,107.4002857,20,2148.005714,Returning,95.90342857,0.05,Credit Card,Retail,East-Eve
+1034,2023-01-16,Alice,North,14.07657143,13,182.9954286,New,10.466,0.12,Credit Card,Retail,North-Alice
+1009,2023-01-17,David,West,70.76571429,12,849.1885714,New,65.10485714,0.09,Cash,Retail,West-David
+1016,2023-01-17,Eve,West,84.39742857,21,1772.346,New,81.82114286,0.1,Bank Transfer,Retail,West-Eve
+1029,2023-01-17,Charlie,North,89.53,31,2775.43,Returning,77.68571429,0.17,Bank Transfer,Retail,North-Charlie
+1060,2023-01-17,Bob,South,45.22542857,3,135.6762857,New,34.01171429,0.02,Credit Card,Retail,South-Bob
+1076,2023-01-17,Charlie,South,63.17628571,16,1010.820571,Returning,56.11857143,0.21,Bank Transfer,Online,South-Charlie
+1080,2023-01-17,Bob,South,120.3214286,47,5655.107143,Returning,115.2951429,0.07,Bank Transfer,Online,South-Bob
+1080,2023-01-18,Charlie,East,56.68057143,44,2493.945143,New,50.39057143,0.24,Credit Card,Online,East-Charlie
+1048,2023-01-19,Bob,West,134.9485714,7,944.64,Returning,123.17,0.05,Credit Card,Retail,West-Bob
+1017,2023-01-20,Bob,East,99.47771429,29,2884.853714,New,97.44257143,0.24,Bank Transfer,Retail,East-Bob
+1046,2023-01-20,Eve,East,119.98,43,5159.14,New,115.7834286,0.1,Bank Transfer,Retail,East-Eve
+1053,2023-01-20,David,West,84.09457143,42,3531.972,New,69.81628571,0.29,Cash,Online,West-David
+1092,2023-01-20,Charlie,East,135.1994286,40,5407.977143,New,132.1188571,0.2,Bank Transfer,Retail,East-Charlie
+1003,2023-01-21,Charlie,North,59.74942857,3,179.2482857,Returning,51.20142857,0.09,Cash,Retail,North-Charlie
+1006,2023-01-22,Alice,South,125.88,29,3650.52,New,124.3797143,0.04,Bank Transfer,Online,South-Alice
+1035,2023-01-22,Alice,North,120.9977143,28,3387.936,New,107.7537143,0.28,Credit Card,Retail,North-Alice
+1045,2023-01-22,Bob,East,84.616,46,3892.336,Returning,73.63085714,0.1,Cash,Online,East-Bob
+1018,2023-01-23,David,North,35.96085714,20,719.2171429,Returning,32.58914286,0.26,Bank Transfer,Online,North-David
+1037,2023-01-23,Bob,North,91.21057143,40,3648.422857,Returning,79.71742857,0.26,Bank Transfer,Online,North-Bob
+1037,2023-01-23,Charlie,East,39.498,25,987.45,Returning,30.70342857,0.24,Credit Card,Retail,East-Charlie
+1017,2023-01-24,Eve,North,39.974,27,1079.298,Returning,26.51114286,0.27,Credit Card,Online,North-Eve
+1054,2023-01-24,Bob,East,132.7794286,22,2921.147429,Returning,120.0022857,0.11,Cash,Online,East-Bob
+1011,2023-01-25,Eve,North,43.15142857,22,949.3314286,Returning,37.84342857,0.15,Cash,Retail,North-Eve
+1048,2023-01-25,Eve,South,57.17371429,7,400.216,New,47.298,0.19,Bank Transfer,Online,South-Eve
+1061,2023-01-25,Bob,East,128.766,38,4893.108,Returning,126.8817143,0.24,Bank Transfer,Online,East-Bob
+1083,2023-01-25,David,East,44.20742857,34,1503.052571,New,33.36885714,0.11,Bank Transfer,Online,East-David
+1090,2023-01-25,Charlie,South,132.7242857,17,2256.312857,New,119.7217143,0.12,Credit Card,Retail,South-Charlie
+1096,2023-01-25,Charlie,West,141.9268571,27,3832.025143,New,137.4,0.12,Cash,Online,West-Charlie
+1018,2023-01-26,Alice,East,71.97342857,11,791.7077143,Returning,68.99485714,0,Cash,Online,East-Alice
+1023,2023-01-26,David,North,66.55342857,36,2395.923429,New,56.90628571,0.28,Credit Card,Retail,North-David
+1026,2023-01-26,David,East,117.6537143,5,588.2685714,Returning,116.9602857,0.12,Credit Card,Retail,East-David
+1016,2023-01-27,Eve,North,98.02828571,41,4019.159714,New,96.75685714,0.21,Bank Transfer,Retail,North-Eve
+1034,2023-01-27,Bob,East,88.04285714,38,3345.628571,New,77.99285714,0.01,Bank Transfer,Online,East-Bob
+1065,2023-01-27,Bob,South,59.41828571,12,713.0194286,Returning,58.16228571,0.04,Cash,Online,South-Bob
+1092,2023-01-27,David,West,114.3988571,26,2974.370286,New,105.6368571,0.24,Cash,Online,West-David
+1007,2023-01-29,Charlie,West,110.3017143,13,1433.922286,Returning,107.5845714,0.22,Cash,Retail,West-Charlie
+1009,2023-01-29,Eve,West,110.9648571,16,1775.437714,Returning,107.0197143,0.18,Bank Transfer,Retail,West-Eve
+1017,2023-01-29,Charlie,South,48.49114286,19,921.3317143,New,35.232,0.1,Credit Card,Online,South-Charlie
+1018,2023-01-29,David,West,143.1837143,25,3579.592857,New,133.1662857,0.07,Bank Transfer,Online,West-David
+1042,2023-01-29,Eve,North,81.44457143,25,2036.114286,New,68.67257143,0.13,Bank Transfer,Online,North-Eve
+1092,2023-01-29,Bob,South,83.25085714,13,1082.261143,New,76.7,0.08,Credit Card,Retail,South-Bob
+1042,2023-01-31,Alice,North,23.26114286,11,255.8725714,Returning,18.14857143,0.02,Cash,Online,North-Alice
+1057,2023-01-31,Charlie,North,147.574,36,5312.664,Returning,142.7228571,0.24,Cash,Online,North-Charlie
+1069,2023-02-01,Eve,North,91.988,18,1655.784,New,78.86314286,0.27,Bank Transfer,Retail,North-Eve
+1097,2023-02-01,Alice,West,125.5337143,27,3389.410286,Returning,113.0054286,0.04,Credit Card,Online,West-Alice
+1096,2023-02-02,Alice,East,58.17714286,31,1803.491429,New,49.264,0.17,Cash,Online,East-Alice
+1013,2023-02-03,Bob,North,132.6522857,42,5571.396,New,132.1522857,0.19,Credit Card,Online,North-Bob
+1035,2023-02-03,Charlie,North,137.012,5,685.06,Returning,128.11,0.23,Cash,Online,North-Charlie
+1052,2023-02-03,Bob,North,7.634857143,18,137.4274286,Returning,4.364285714,0.09,Cash,Online,North-Bob
+1026,2023-02-04,Alice,West,49.02371429,19,931.4505714,New,36.15657143,0.05,Credit Card,Retail,West-Alice
+1038,2023-02-04,Charlie,North,19.60714286,7,137.25,Returning,14.94342857,0.04,Cash,Online,North-Charlie
+1030,2023-02-05,David,East,83.596,49,4096.204,Returning,74.00828571,0.26,Cash,Retail,East-David
+1048,2023-02-05,David,North,148.1768571,42,6223.428,Returning,134.9665714,0.22,Credit Card,Online,North-David
+1080,2023-02-05,Charlie,South,44.29114286,9,398.6202857,New,32.61485714,0.28,Credit Card,Retail,South-Charlie
+1026,2023-02-06,Bob,West,6.259428571,34,212.8205714,New,1.952285714,0.02,Credit Card,Online,West-Bob
+1027,2023-02-06,Eve,West,42.43828571,45,1909.722857,New,32.96857143,0.25,Credit Card,Retail,West-Eve
+1036,2023-02-06,Charlie,East,123.7551429,26,3217.633714,Returning,121.896,0.14,Credit Card,Retail,East-Charlie
+1017,2023-02-07,Charlie,West,31.28342857,2,62.56685714,New,20.81171429,0.24,Cash,Retail,West-Charlie
+1027,2023-02-07,Bob,West,36.34257143,3,109.0277143,New,28.54542857,0.15,Credit Card,Online,West-Bob
+1072,2023-02-07,Bob,East,114.3608571,26,2973.382286,New,104.0048571,0.05,Credit Card,Retail,East-Bob
+1077,2023-02-07,Eve,West,78.374,12,940.488,New,69.356,0.29,Credit Card,Retail,West-Eve
+1081,2023-02-07,David,East,82.264,41,3372.824,New,79.488,0.21,Bank Transfer,Online,East-David
+1015,2023-02-08,Charlie,East,76.70942857,23,1764.316857,New,75.56485714,0.24,Cash,Online,East-Charlie
+1027,2023-02-08,Alice,West,63.45428571,20,1269.085714,New,49.946,0.23,Credit Card,Retail,West-Alice
+1033,2023-02-08,Eve,North,124.15,39,4841.85,Returning,120.9374286,0.12,Bank Transfer,Online,North-Eve
+1048,2023-02-08,Charlie,West,102.0745714,27,2756.013429,Returning,91.36457143,0.08,Credit Card,Online,West-Charlie
+1078,2023-02-08,Alice,South,90.95942857,49,4457.012,Returning,86.48142857,0.25,Cash,Retail,South-Alice
+1090,2023-02-08,Charlie,North,102.2425714,44,4498.673143,Returning,101.2051429,0.12,Cash,Online,North-Charlie
+1020,2023-02-09,Charlie,East,19.31171429,29,560.0397143,Returning,5.258571429,0.1,Cash,Retail,East-Charlie
+1038,2023-02-09,Alice,East,120.8051429,16,1932.882286,New,111.42,0.27,Cash,Retail,East-Alice
+1039,2023-02-09,David,South,58.75285714,20,1175.057143,Returning,57.546,0.21,Bank Transfer,Retail,South-David
+1046,2023-02-09,Charlie,East,37.01057143,3,111.0317143,New,34.74742857,0.14,Cash,Retail,East-Charlie
+1092,2023-02-09,David,West,63.96142857,34,2174.688571,New,58.21171429,0.3,Credit Card,Online,West-David
+1092,2023-02-09,Alice,South,116.2408571,14,1627.372,New,102.4737143,0.22,Credit Card,Online,South-Alice
+1024,2023-02-10,David,East,50.88828571,13,661.5477143,New,42.68228571,0.04,Cash,Retail,East-David
+1056,2023-02-10,Bob,West,40.69057143,42,1709.004,New,30.86057143,0.1,Cash,Online,West-Bob
+1092,2023-02-10,Bob,East,116.4845714,47,5474.774857,Returning,105.1865714,0.17,Cash,Retail,East-Bob
+1014,2023-02-11,David,West,78.50885714,44,3454.389714,Returning,64.49942857,0.27,Cash,Online,West-David
+1021,2023-02-11,Charlie,West,31.61457143,32,1011.666286,New,25.73685714,0.21,Cash,Online,West-Charlie
+1028,2023-02-11,Alice,East,79.03,24,1896.72,Returning,72.02942857,0.16,Bank Transfer,Retail,East-Alice
+1034,2023-02-11,Eve,South,20.53485714,26,533.9062857,New,19.05714286,0.2,Cash,Retail,South-Eve
+1050,2023-02-11,Charlie,West,24.32428571,48,1167.565714,Returning,20.28742857,0.04,Bank Transfer,Online,West-Charlie
+1076,2023-02-13,Eve,North,17.84885714,17,303.4305714,New,17.25942857,0.14,Bank Transfer,Retail,North-Eve
+1044,2023-02-14,David,West,71.27085714,12,855.2502857,Returning,63.466,0.22,Bank Transfer,Online,West-David
+1099,2023-02-14,David,South,55.67028571,32,1781.449143,New,43.36742857,0.02,Credit Card,Online,South-David
+1025,2023-02-15,David,South,48.67542857,45,2190.394286,New,45.37257143,0.2,Bank Transfer,Retail,South-David
+1074,2023-02-15,Alice,South,36.17857143,31,1121.535714,Returning,32.52342857,0.14,Cash,Retail,South-Alice
+1074,2023-02-15,Bob,West,48.73457143,1,48.73457143,Returning,37.26371429,0.01,Cash,Retail,West-Bob
+1094,2023-02-15,Charlie,South,101.6394286,47,4777.053143,New,98.58171429,0.2,Credit Card,Online,South-Charlie
+1010,2023-02-16,David,East,69.42657143,47,3263.048857,Returning,64.72514286,0.06,Bank Transfer,Online,East-David
+1028,2023-02-16,Bob,East,64.056,24,1537.344,Returning,56.25971429,0.02,Credit Card,Online,East-Bob
+1044,2023-02-16,David,South,98.70742857,22,2171.563429,Returning,96.38457143,0.22,Bank Transfer,Retail,South-David
+1053,2023-02-16,Eve,West,55.50142857,11,610.5157143,New,45.22457143,0.17,Credit Card,Retail,West-Eve
+1001,2023-02-18,David,West,36.76914286,27,992.7668571,Returning,26.82914286,0.07,Credit Card,Retail,West-David
+1007,2023-02-18,Alice,South,65.40771429,34,2223.862286,Returning,54.88771429,0.07,Bank Transfer,Retail,South-Alice
+1003,2023-02-19,Alice,East,149.3694286,45,6721.624286,New,142.1182857,0.21,Bank Transfer,Online,East-Alice
+1084,2023-02-19,David,West,23.226,35,812.91,New,13.30314286,0.16,Bank Transfer,Online,West-David
+1002,2023-02-20,Charlie,West,15.934,26,414.284,New,14.54114286,0.22,Credit Card,Retail,West-Charlie
+1017,2023-02-20,Charlie,North,4.774857143,16,76.39771429,New,2.920857143,0.04,Credit Card,Retail,North-Charlie
+1049,2023-02-21,Alice,East,106.0642857,31,3287.992857,New,102.0068571,0.03,Credit Card,Online,East-Alice
+1046,2023-02-22,Alice,South,81.19085714,46,3734.779429,New,72.90171429,0.09,Bank Transfer,Retail,South-Alice
+1048,2023-02-23,Bob,West,132.6117143,47,6232.750571,New,129.596,0.27,Credit Card,Retail,West-Bob
+1100,2023-02-23,Eve,North,70.65657143,43,3038.232571,New,60.45971429,0.01,Credit Card,Retail,North-Eve
+1008,2023-02-24,Eve,West,67.58142857,22,1486.791429,New,64.83771429,0.03,Cash,Retail,West-Eve
+1054,2023-02-24,Alice,North,62.53314286,43,2688.925143,Returning,60.70628571,0.03,Credit Card,Retail,North-Alice
+1068,2023-02-24,Bob,North,104.3262857,22,2295.178286,Returning,103.4174286,0.26,Bank Transfer,Online,North-Bob
+1094,2023-02-24,Bob,West,124.5365714,7,871.756,Returning,117.7822857,0.26,Bank Transfer,Retail,West-Bob
+1099,2023-02-24,David,East,76.64371429,35,2682.53,New,74.57685714,0.14,Cash,Retail,East-David
+1013,2023-02-25,Eve,East,86.39914286,31,2678.373429,Returning,78.77314286,0.21,Cash,Online,East-Eve
+1086,2023-02-26,Bob,West,148.3148571,5,741.5742857,New,140.9742857,0.3,Bank Transfer,Online,West-Bob
+1083,2023-02-27,Alice,West,114.3857143,20,2287.714286,New,103.3597143,0.01,Credit Card,Retail,West-Alice
+1085,2023-02-27,Eve,West,108.04,45,4861.8,Returning,95.02742857,0.27,Credit Card,Online,West-Eve
+1007,2023-02-28,Charlie,East,122.0834286,43,5249.587429,New,113.35,0.27,Credit Card,Online,East-Charlie
+1012,2023-02-28,David,East,111.6677143,33,3685.034571,New,109.4597143,0.29,Cash,Retail,East-David
+1025,2023-02-28,Bob,East,25.27171429,14,353.804,New,24.55971429,0.12,Bank Transfer,Online,East-Bob
+1033,2023-02-28,David,West,90.78971429,3,272.3691429,Returning,84.53571429,0.17,Cash,Online,West-David
+1056,2023-02-28,Eve,North,45.99828571,37,1701.936571,Returning,44.44028571,0.16,Credit Card,Online,North-Eve
+1087,2023-02-28,Alice,West,121.746,15,1826.19,Returning,116.4188571,0.05,Credit Card,Retail,West-Alice
+1029,2023-03-01,David,East,88.80857143,28,2486.64,New,82.10085714,0.15,Credit Card,Retail,East-David
+1034,2023-03-01,Charlie,West,66.33914286,45,2985.261429,New,57.51771429,0.18,Bank Transfer,Retail,West-Charlie
+1041,2023-03-01,Charlie,East,96.89885714,44,4263.549714,New,93.954,0.05,Credit Card,Retail,East-Charlie
+1023,2023-03-02,David,West,133.2382857,39,5196.293143,New,127.1602857,0.24,Cash,Retail,West-David
+1058,2023-03-02,Eve,West,102.9434286,39,4014.793714,Returning,101.2228571,0.26,Cash,Online,West-Eve
+1058,2023-03-02,Eve,East,43.66857143,49,2139.76,Returning,37.34914286,0.24,Cash,Retail,East-Eve
+1007,2023-03-03,Eve,West,75.36885714,1,75.36885714,Returning,72.66457143,0.2,Credit Card,Online,West-Eve
+1035,2023-03-03,Bob,West,88.47542857,47,4158.345143,New,83.89942857,0.06,Bank Transfer,Online,West-Bob
+1089,2023-03-03,Charlie,North,122.2874286,4,489.1497143,Returning,117.6477143,0.18,Bank Transfer,Online,North-Charlie
+1095,2023-03-03,Eve,East,103.5814286,16,1657.302857,Returning,102.6014286,0.05,Credit Card,Retail,East-Eve
+1009,2023-03-04,David,East,102.5951429,1,102.5951429,New,92.08771429,0.19,Bank Transfer,Retail,East-David
+1033,2023-03-04,Bob,West,21.53742857,14,301.524,Returning,10.35371429,0.19,Cash,Retail,West-Bob
+1070,2023-03-04,Bob,South,111.3197143,15,1669.795714,New,104.3902857,0.03,Credit Card,Retail,South-Bob
+1094,2023-03-04,Bob,North,20.45257143,49,1002.176,Returning,17.58485714,0.21,Credit Card,Retail,North-Bob
+1099,2023-03-04,David,East,55.87314286,10,558.7314286,New,43.74857143,0,Credit Card,Online,East-David
+1050,2023-03-05,Bob,North,108.1688571,20,2163.377143,New,94.82628571,0.24,Bank Transfer,Online,North-Bob
+1058,2023-03-05,Eve,North,77.57285714,48,3723.497143,Returning,74.192,0.04,Cash,Online,North-Eve
+1024,2023-03-06,Alice,South,46.42542857,35,1624.89,New,35.958,0.08,Credit Card,Online,South-Alice
+1005,2023-03-08,Alice,North,19.53657143,12,234.4388571,New,7.236857143,0.25,Credit Card,Online,North-Alice
+1067,2023-03-08,Bob,East,109.7871429,28,3074.04,New,99.71,0.03,Bank Transfer,Online,East-Bob
+1058,2023-03-09,Eve,South,74.24,40,2969.6,Returning,64.27885714,0.18,Credit Card,Retail,South-Eve
+1027,2023-03-10,Eve,South,81.38285714,21,1709.04,Returning,71.75457143,0.06,Bank Transfer,Online,South-Eve
+1040,2023-03-10,Charlie,East,82.36714286,13,1070.772857,Returning,78.57657143,0.24,Credit Card,Online,East-Charlie
+1040,2023-03-10,Alice,East,125.21,42,5258.82,New,120.1511429,0.25,Cash,Retail,East-Alice
+1038,2023-03-11,Bob,South,79.71714286,15,1195.757143,Returning,72.66742857,0.07,Cash,Online,South-Bob
+1030,2023-03-13,Alice,North,75.94457143,39,2961.838286,New,71.75085714,0.19,Credit Card,Retail,North-Alice
+1032,2023-03-13,Alice,North,142.1494286,20,2842.988571,New,135.474,0.09,Credit Card,Online,North-Alice
+1038,2023-03-13,David,North,12.746,9,114.714,New,11.44057143,0.01,Bank Transfer,Retail,North-David
+1061,2023-03-13,Bob,South,79.12914286,11,870.4205714,Returning,74.13457143,0.01,Bank Transfer,Retail,South-Bob
+1021,2023-03-14,David,South,27.31885714,23,628.3337143,Returning,16.59285714,0.07,Cash,Retail,South-David
+1062,2023-03-14,Alice,East,97.66257143,24,2343.901714,Returning,86.22885714,0.23,Bank Transfer,Retail,East-Alice
+1090,2023-03-14,David,East,77.56314286,47,3645.467714,New,66.02342857,0.19,Cash,Retail,East-David
+1060,2023-03-15,David,South,71.79542857,44,3158.998857,Returning,63.19857143,0.04,Cash,Online,South-David
+1039,2023-03-16,Eve,North,90.89228571,35,3181.23,New,78.164,0.1,Credit Card,Retail,North-Eve
+1062,2023-03-16,David,West,147.6205714,45,6642.925714,Returning,138.56,0.25,Credit Card,Online,West-David
+1097,2023-03-16,David,South,64.424,35,2254.84,New,55.95685714,0.16,Credit Card,Online,South-David
+1098,2023-03-16,David,South,25.08828571,11,275.9711429,New,21.18514286,0.29,Cash,Retail,South-David
+1017,2023-03-17,Bob,North,111.2208571,28,3114.184,Returning,108.026,0.1,Cash,Retail,North-Bob
+1024,2023-03-17,Eve,South,66.81885714,46,3073.667429,Returning,57.614,0.19,Bank Transfer,Retail,South-Eve
+1036,2023-03-17,Alice,East,106.9177143,23,2459.107429,New,95.30085714,0.03,Bank Transfer,Retail,East-Alice
+1016,2023-03-18,David,South,24.68028571,4,98.72114286,New,19.68514286,0.27,Credit Card,Retail,South-David
+1095,2023-03-18,Eve,South,50.25657143,43,2161.032571,Returning,38.05314286,0.23,Bank Transfer,Retail,South-Eve
+1020,2023-03-19,Eve,West,55.18742857,19,1048.561143,Returning,50.95657143,0.27,Bank Transfer,Retail,West-Eve
+1030,2023-03-19,David,East,35.01828571,2,70.03657143,Returning,24.14114286,0.23,Credit Card,Online,East-David
+1035,2023-03-19,Bob,South,78.73028571,9,708.5725714,Returning,72.42685714,0.13,Credit Card,Retail,South-Bob
+1011,2023-03-20,Bob,East,145.9265714,2,291.8531429,Returning,140.1762857,0.1,Cash,Online,East-Bob
+1026,2023-03-20,Bob,East,151.3328571,19,2875.324286,New,142.6194286,0.12,Bank Transfer,Online,East-Bob
+1069,2023-03-21,Bob,East,83.08828571,29,2409.560286,New,70.36171429,0.12,Credit Card,Online,East-Bob
+1084,2023-03-21,Eve,South,88.698,40,3547.92,New,82.59857143,0.21,Bank Transfer,Online,South-Eve
+1061,2023-03-22,Alice,East,79.172,34,2691.848,New,76.59485714,0.2,Bank Transfer,Online,East-Alice
+1076,2023-03-22,Charlie,South,81.84142857,23,1882.352857,Returning,78.83314286,0.18,Credit Card,Retail,South-Charlie
+1097,2023-03-22,Eve,North,141.4271429,6,848.5628571,Returning,139.5994286,0.17,Bank Transfer,Online,North-Eve
+1031,2023-03-23,Eve,East,106.042,32,3393.344,New,95.75228571,0.16,Cash,Retail,East-Eve
+1035,2023-03-23,David,East,49.872,30,1496.16,New,37.14371429,0.09,Cash,Retail,East-David
+1078,2023-03-23,Eve,West,76.044,33,2509.452,New,68.47657143,0.18,Bank Transfer,Online,West-Eve
+1092,2023-03-23,Bob,South,99.294,18,1787.292,Returning,87.72771429,0.2,Bank Transfer,Online,South-Bob
+1061,2023-03-24,Charlie,East,19.79171429,13,257.2922857,New,18.21057143,0.08,Credit Card,Online,East-Charlie
+1005,2023-03-25,Bob,West,59.29571429,14,830.14,Returning,53.17714286,0.1,Credit Card,Retail,West-Bob
+1049,2023-03-25,Eve,East,28.688,17,487.696,Returning,15.96285714,0.03,Credit Card,Online,East-Eve
+1053,2023-03-25,Bob,East,53.21742857,1,53.21742857,Returning,48.652,0.24,Cash,Retail,East-Bob
+1055,2023-03-25,David,East,74.31228571,11,817.4351429,New,71.29142857,0.21,Bank Transfer,Retail,East-David
+1074,2023-03-25,Eve,West,81.05542857,38,3080.106286,Returning,74.58857143,0.19,Credit Card,Online,West-Eve
+1092,2023-03-25,Alice,West,70.49371429,49,3454.192,New,66.14285714,0.15,Bank Transfer,Retail,West-Alice
+1097,2023-03-26,David,East,68.40571429,7,478.84,New,54.18142857,0.22,Bank Transfer,Online,East-David
+1010,2023-03-27,Eve,South,128.4537143,37,4752.787429,Returning,124.4262857,0.01,Bank Transfer,Online,South-Eve
+1069,2023-03-27,David,East,123.4551429,47,5802.391714,New,119.1951429,0.07,Cash,Online,East-David
+1096,2023-03-27,Alice,North,77.54628571,48,3722.221714,New,69.97742857,0.01,Credit Card,Online,North-Alice
+1045,2023-03-28,Eve,West,23.74657143,14,332.452,Returning,18.15085714,0.17,Bank Transfer,Retail,West-Eve
+1063,2023-03-28,Charlie,South,47.71285714,42,2003.94,Returning,33.43057143,0.12,Bank Transfer,Retail,South-Charlie
+1066,2023-03-28,Charlie,North,18.06971429,7,126.488,New,14.95485714,0.2,Bank Transfer,Online,North-Charlie
+1010,2023-03-29,Alice,South,37.31485714,49,1828.428,New,32.86571429,0.06,Credit Card,Retail,South-Alice
+1022,2023-03-29,Bob,West,116.7974286,45,5255.884286,Returning,114.8597143,0.06,Bank Transfer,Online,West-Bob
+1005,2023-03-30,Alice,East,22.92657143,12,275.1188571,New,9.138,0.04,Credit Card,Retail,East-Alice
+1007,2023-03-30,David,East,45.96457143,14,643.504,New,32.05914286,0.22,Cash,Retail,East-David
+1009,2023-03-30,Charlie,South,134.5742857,10,1345.742857,New,124.6957143,0.07,Credit Card,Online,South-Charlie
+1085,2023-03-30,David,West,146.2831429,45,6582.741429,Returning,136.0888571,0.29,Cash,Retail,West-David
+1004,2023-03-31,Charlie,East,143.964,12,1727.568,New,130.0922857,0.09,Credit Card,Retail,East-Charlie
+1016,2023-03-31,Eve,East,118.6491429,38,4508.667429,Returning,110.9537143,0.26,Cash,Online,East-Eve
+1025,2023-03-31,David,West,85.02885714,4,340.1154286,Returning,78.60171429,0.28,Credit Card,Online,West-David
+1047,2023-03-31,Alice,East,93.05085714,37,3442.881714,Returning,88.99657143,0.26,Credit Card,Online,East-Alice
+1005,2023-04-02,David,South,143.6054286,46,6605.849714,Returning,134.0405714,0.22,Bank Transfer,Retail,South-David
+1034,2023-04-02,Charlie,West,78.248,7,547.736,Returning,71.21028571,0.11,Cash,Online,West-Charlie
+1048,2023-04-02,David,South,129.5231429,45,5828.541429,Returning,121.7774286,0.27,Credit Card,Online,South-David
+1059,2023-04-02,Eve,West,113.0214286,12,1356.257143,Returning,99.89,0.28,Cash,Retail,West-Eve
+1062,2023-04-02,Bob,East,46.74685714,10,467.4685714,New,43.568,0.2,Bank Transfer,Online,East-Bob
+1095,2023-04-03,Charlie,East,81.72628571,9,735.5365714,New,75.74142857,0.12,Cash,Retail,East-Charlie
+1099,2023-04-03,Alice,North,136.9717143,30,4109.151429,New,128.452,0.18,Bank Transfer,Retail,North-Alice
+1051,2023-04-04,Bob,East,106.3902857,12,1276.683429,Returning,101.2708571,0.19,Cash,Online,East-Bob
+1078,2023-04-04,David,East,61.34685714,49,3005.996,Returning,52.39857143,0.18,Credit Card,Retail,East-David
+1052,2023-04-05,Charlie,South,145.1328571,26,3773.454286,New,136.3425714,0.29,Credit Card,Online,South-Charlie
+1058,2023-04-05,Alice,North,30.97942857,33,1022.321143,Returning,28.90428571,0.07,Bank Transfer,Retail,North-Alice
+1062,2023-04-05,Bob,North,72.04142857,48,3457.988571,New,71.06257143,0.29,Cash,Online,North-Bob
+1087,2023-04-05,Eve,East,15.172,43,652.396,New,13.74285714,0.17,Cash,Online,East-Eve
+1026,2023-04-06,Bob,South,122.5228571,4,490.0914286,New,114.0968571,0.13,Credit Card,Online,South-Bob
+1068,2023-04-06,Alice,South,94.40428571,31,2926.532857,Returning,90.55342857,0.25,Credit Card,Retail,South-Alice
+1086,2023-04-06,Charlie,West,117.6108571,32,3763.547429,Returning,106.9597143,0.11,Cash,Online,West-Charlie
+1033,2023-04-07,Bob,East,69.34257143,4,277.3702857,Returning,57.16428571,0.17,Bank Transfer,Online,East-Bob
+1051,2023-04-07,Alice,West,97.17428571,23,2235.008571,New,95.01228571,0.1,Cash,Online,West-Alice
+1007,2023-04-08,Charlie,East,116.3377143,13,1512.390286,Returning,102.7771429,0.29,Bank Transfer,Online,East-Charlie
+1009,2023-04-08,Charlie,South,96.7,32,3094.4,Returning,91.99657143,0.14,Cash,Retail,South-Charlie
+1061,2023-04-08,Charlie,East,46.05485714,29,1335.590857,New,34.90685714,0.15,Cash,Retail,East-Charlie
+1096,2023-04-08,Charlie,South,13.18,45,593.1,Returning,10.22628571,0.28,Cash,Online,South-Charlie
+1098,2023-04-08,Eve,North,89.86485714,5,449.3242857,New,84.20628571,0.1,Credit Card,Retail,North-Eve
+1039,2023-04-09,Alice,North,13.47857143,3,40.43571429,Returning,11.17685714,0.27,Cash,Online,North-Alice
+1059,2023-04-09,Charlie,South,17.49885714,1,17.49885714,Returning,9.503428571,0.24,Cash,Retail,South-Charlie
+1002,2023-04-11,Bob,North,27.75914286,21,582.942,Returning,26.12057143,0.14,Cash,Online,North-Bob
+1014,2023-04-11,Alice,South,72.2,38,2743.6,Returning,59.74885714,0.01,Credit Card,Online,South-Alice
+1067,2023-04-11,Bob,East,91.03285714,17,1547.558571,New,80.90228571,0.24,Bank Transfer,Retail,East-Bob
+1083,2023-04-11,Bob,West,74.974,29,2174.246,Returning,68.82314286,0.14,Cash,Online,West-Bob
+1063,2023-04-12,Charlie,North,69.73228571,40,2789.291429,New,60.03771429,0.26,Bank Transfer,Retail,North-Charlie
+1081,2023-04-12,Bob,South,70.35257143,19,1336.698857,New,69.81971429,0.07,Bank Transfer,Retail,South-Bob
+1008,2023-04-13,Charlie,South,139.1128571,24,3338.708571,New,135.4037143,0.14,Credit Card,Retail,South-Charlie
+1091,2023-04-13,Eve,West,125.3431429,36,4512.353143,New,112.9025714,0.07,Bank Transfer,Retail,West-Eve
+1001,2023-04-14,David,East,82.97314286,2,165.9462857,New,75.19085714,0.15,Bank Transfer,Online,East-David
+1032,2023-04-14,David,North,108.0251429,45,4861.131429,New,106.0671429,0.07,Cash,Retail,North-David
+1034,2023-04-14,Alice,West,106.6285714,3,319.8857143,New,99.21457143,0.06,Cash,Online,West-Alice
+1047,2023-04-14,Eve,West,123.4582857,16,1975.332571,Returning,113.3388571,0.23,Credit Card,Retail,West-Eve
+1052,2023-04-14,David,North,24.48314286,5,122.4157143,Returning,21.306,0.23,Bank Transfer,Retail,North-David
+1099,2023-04-14,Alice,East,142.5808571,27,3849.683143,Returning,140.8442857,0.29,Credit Card,Online,East-Alice
+1010,2023-04-15,Charlie,North,155.49,4,621.96,Returning,141.2294286,0.29,Cash,Online,North-Charlie
+1013,2023-04-15,Eve,North,49.42028571,42,2075.652,New,39.302,0.04,Cash,Online,North-Eve
+1027,2023-04-16,Alice,East,70.20828571,7,491.458,New,67.76714286,0.03,Cash,Retail,East-Alice
+1081,2023-04-16,Charlie,West,52.68771429,44,2318.259429,New,38.91857143,0.29,Credit Card,Online,West-Charlie
+1052,2023-04-17,Alice,South,65.86971429,2,131.7394286,Returning,55.29742857,0.22,Credit Card,Online,South-Alice
+1012,2023-04-18,Alice,South,29.42028571,9,264.7825714,Returning,20.28485714,0.13,Bank Transfer,Retail,South-Alice
+1035,2023-04-18,David,South,34.31314286,34,1166.646857,Returning,31.57285714,0.19,Cash,Online,South-David
+1061,2023-04-18,Eve,North,14.24171429,47,669.3605714,New,4.179142857,0.06,Cash,Retail,North-Eve
+1033,2023-04-19,Bob,South,97.42657143,5,487.1328571,New,90.36914286,0,Cash,Online,South-Bob
+1044,2023-04-20,Charlie,West,106.8608571,34,3633.269143,Returning,102.0942857,0.01,Credit Card,Online,West-Charlie
+1009,2023-04-21,Eve,North,20.94285714,47,984.3142857,Returning,10.26885714,0.2,Bank Transfer,Retail,North-Eve
+1047,2023-04-21,Eve,West,58.39485714,17,992.7125714,New,45.46685714,0.29,Cash,Retail,West-Eve
+1088,2023-04-21,Charlie,East,31.64142857,29,917.6014286,New,18.27371429,0.29,Cash,Retail,East-Charlie
+1090,2023-04-21,David,West,41.89085714,35,1466.18,Returning,32.30285714,0.13,Cash,Online,West-David
+1093,2023-04-21,Bob,West,120.2697143,17,2044.585143,Returning,109.0397143,0.11,Cash,Retail,West-Bob
+1002,2023-04-22,Eve,North,126.832,9,1141.488,New,125.6617143,0.18,Bank Transfer,Online,North-Eve
+1061,2023-04-22,Eve,South,107.0285714,39,4174.114286,Returning,99.834,0.25,Bank Transfer,Retail,South-Eve
+1008,2023-04-23,Eve,North,30.28057143,35,1059.82,Returning,17.14857143,0.29,Bank Transfer,Retail,North-Eve
+1016,2023-04-23,David,South,139.4205714,6,836.5234286,New,128.6311429,0.13,Credit Card,Online,South-David
+1033,2023-04-23,Charlie,East,37.716,44,1659.504,Returning,34.14914286,0.23,Bank Transfer,Retail,East-Charlie
+1060,2023-04-23,Eve,East,128.2391429,23,2949.500286,New,117.4457143,0.12,Credit Card,Online,East-Eve
+1024,2023-04-24,David,North,60.61571429,35,2121.55,Returning,58.6,0.26,Cash,Retail,North-David
+1054,2023-04-24,David,North,70.36085714,48,3377.321143,New,66.19771429,0.04,Credit Card,Online,North-David
+1039,2023-04-25,Alice,East,87.492,24,2099.808,New,74.728,0.19,Bank Transfer,Retail,East-Alice
+1075,2023-04-25,David,West,109.228,44,4806.032,Returning,100.5511429,0.27,Bank Transfer,Online,West-David
+1095,2023-04-25,Bob,South,93.24257143,10,932.4257143,Returning,90.17057143,0.04,Credit Card,Online,South-Bob
+1075,2023-04-26,David,South,137.1731429,37,5075.406286,New,125.7085714,0.13,Bank Transfer,Retail,South-David
+1001,2023-04-27,Eve,East,44.10542857,25,1102.635714,New,38.01771429,0.27,Credit Card,Online,East-Eve
+1018,2023-04-27,David,South,12.522,17,212.874,Returning,10.16342857,0.06,Bank Transfer,Online,South-David
+1020,2023-04-27,Alice,South,137.2905714,33,4530.588857,Returning,136.3437143,0.28,Bank Transfer,Online,South-Alice
+1024,2023-04-27,Alice,West,67.54,42,2836.68,Returning,59.11571429,0.07,Cash,Online,West-Alice
+1064,2023-04-27,Bob,North,58.44371429,13,759.7682857,Returning,47.01457143,0.28,Cash,Retail,North-Bob
+1003,2023-04-28,Charlie,South,24.39028571,27,658.5377143,Returning,17.80914286,0.04,Cash,Online,South-Charlie
+1009,2023-04-28,Alice,North,75.05428571,33,2476.791429,New,65.11142857,0.05,Credit Card,Online,North-Alice
+1023,2023-04-28,Charlie,North,70.924,5,354.62,Returning,66.03571429,0.22,Credit Card,Retail,North-Charlie
+1036,2023-04-28,Charlie,West,127.0414286,25,3176.035714,Returning,115.3637143,0.09,Bank Transfer,Online,West-Charlie
+1056,2023-04-29,Charlie,North,23.99771429,10,239.9771429,Returning,15.33742857,0.15,Bank Transfer,Online,North-Charlie
+1093,2023-04-29,Alice,North,126.7571429,34,4309.742857,New,120.0317143,0.05,Cash,Online,North-Alice
+1006,2023-04-30,Charlie,North,91.96857143,19,1747.402857,New,84.64028571,0.29,Cash,Retail,North-Charlie
+1032,2023-04-30,Alice,West,70.96771429,18,1277.418857,Returning,70.46228571,0.08,Cash,Online,West-Alice
+1051,2023-04-30,Bob,West,29.24685714,3,87.74057143,Returning,28.57657143,0.04,Credit Card,Online,West-Bob
+1076,2023-04-30,Eve,West,127.4488571,32,4078.363429,Returning,123.9377143,0.3,Cash,Retail,West-Eve
+1036,2023-05-02,David,North,125.3711429,42,5265.588,New,122.6465714,0.07,Credit Card,Retail,North-David
+1051,2023-05-02,Alice,North,117.1542857,34,3983.245714,Returning,107.5468571,0.05,Bank Transfer,Retail,North-Alice
+1096,2023-05-02,Alice,East,30.44428571,32,974.2171429,Returning,28.33228571,0.22,Bank Transfer,Retail,East-Alice
+1015,2023-05-03,David,South,86.512,30,2595.36,Returning,76.57771429,0.25,Bank Transfer,Online,South-David
+1042,2023-05-03,Alice,West,19.64571429,37,726.8914286,Returning,14.36742857,0.21,Cash,Online,West-Alice
+1061,2023-05-03,Bob,South,91.25485714,41,3741.449143,New,82.69085714,0.28,Bank Transfer,Retail,South-Bob
+1086,2023-05-04,Bob,West,75.02914286,25,1875.728571,New,64.24885714,0.08,Bank Transfer,Online,West-Bob
+1062,2023-05-05,Eve,South,36.09971429,26,938.5925714,Returning,28.34771429,0.25,Bank Transfer,Retail,South-Eve
+1056,2023-05-07,David,East,45.03828571,28,1261.072,Returning,44.74371429,0.2,Bank Transfer,Online,East-David
+1073,2023-05-07,David,North,70.74085714,29,2051.484857,Returning,61.50514286,0.22,Bank Transfer,Online,North-David
+1026,2023-05-08,Charlie,West,98.63257143,20,1972.651429,New,85.30371429,0.17,Credit Card,Retail,West-Charlie
+1067,2023-05-08,Charlie,North,65.93257143,32,2109.842286,Returning,62.05114286,0.22,Bank Transfer,Online,North-Charlie
+1093,2023-05-08,Bob,East,21.844,17,371.348,Returning,20.78228571,0.17,Credit Card,Retail,East-Bob
+1012,2023-05-09,David,West,43.96542857,13,571.5505714,Returning,37.45742857,0.09,Bank Transfer,Retail,West-David
+1001,2023-05-10,David,East,151.8894286,47,7138.803143,New,139.0094286,0.06,Bank Transfer,Online,East-David
+1030,2023-05-10,Bob,South,134.6765714,43,5791.092571,Returning,134.1897143,0.24,Bank Transfer,Online,South-Bob
+1034,2023-05-10,Eve,East,62.30942857,19,1183.879143,Returning,54.92028571,0.17,Credit Card,Retail,East-Eve
+1063,2023-05-10,David,East,133.104,47,6255.888,New,122.6094286,0.24,Credit Card,Retail,East-David
+1001,2023-05-11,Eve,East,22.96771429,8,183.7417143,New,12.63171429,0.18,Cash,Retail,East-Eve
+1003,2023-05-11,Charlie,North,109.26,26,2840.76,New,97.67942857,0.19,Credit Card,Online,North-Charlie
+1051,2023-05-11,Bob,North,132.7962857,36,4780.666286,New,126.2557143,0.04,Bank Transfer,Online,North-Bob
+1099,2023-05-11,Alice,South,105.5271429,48,5065.302857,Returning,98.33171429,0.19,Bank Transfer,Online,South-Alice
+1033,2023-05-12,Bob,North,97.06742857,16,1553.078857,New,83.31085714,0.2,Bank Transfer,Retail,North-Bob
+1038,2023-05-12,Bob,South,79.28171429,20,1585.634286,New,74.49457143,0.27,Credit Card,Retail,South-Bob
+1039,2023-05-13,Eve,West,112.7377143,40,4509.508571,New,101.0417143,0.24,Bank Transfer,Online,West-Eve
+1060,2023-05-13,Charlie,West,95.41885714,31,2957.984571,Returning,90.32571429,0.02,Bank Transfer,Online,West-Charlie
+1075,2023-05-13,Bob,East,125.3377143,36,4512.157714,Returning,123.9317143,0.23,Credit Card,Online,East-Bob
+1001,2023-05-14,Eve,South,92.70742857,35,3244.76,New,78.45,0.05,Bank Transfer,Online,South-Eve
+1009,2023-05-14,David,West,92.31657143,40,3692.662857,Returning,79.99171429,0.29,Credit Card,Retail,West-David
+1049,2023-05-14,Eve,South,137.7228571,22,3029.902857,New,130.6768571,0.04,Cash,Online,South-Eve
+1064,2023-05-14,Bob,South,126.2225714,8,1009.780571,Returning,122.0568571,0.04,Cash,Online,South-Bob
+1087,2023-05-14,Charlie,West,121.1494286,10,1211.494286,New,113.9577143,0.05,Credit Card,Online,West-Charlie
+1062,2023-05-16,Charlie,North,8.667428571,46,398.7017143,New,4.552,0.03,Cash,Retail,North-Charlie
+1004,2023-05-17,Alice,North,126.6385714,36,4558.988571,New,113.7485714,0.14,Cash,Online,North-Alice
+1049,2023-05-17,Alice,West,94.79285714,1,94.79285714,Returning,94.02542857,0.17,Bank Transfer,Online,West-Alice
+1050,2023-05-17,Bob,North,16.748,45,753.66,Returning,3.21,0.28,Credit Card,Retail,North-Bob
+1053,2023-05-17,Bob,South,134.8648571,36,4855.134857,New,121.4905714,0.09,Cash,Retail,South-Bob
+1056,2023-05-17,David,West,72.25771429,47,3396.112571,Returning,70.33428571,0.22,Cash,Retail,West-David
+1063,2023-05-18,Bob,West,112.3214286,39,4380.535714,Returning,102.2197143,0.21,Cash,Retail,West-Bob
+1050,2023-05-19,Charlie,East,68.12514286,35,2384.38,Returning,61.67685714,0.09,Bank Transfer,Retail,East-Charlie
+1012,2023-05-20,Bob,North,108.562,16,1736.992,Returning,99.03171429,0.01,Cash,Retail,North-Bob
+1071,2023-05-20,Eve,West,91.628,6,549.768,Returning,80.89228571,0.06,Bank Transfer,Retail,West-Eve
+1002,2023-05-21,Charlie,West,65.462,26,1702.012,Returning,58.32628571,0.28,Cash,Online,West-Charlie
+1008,2023-05-21,David,East,56.57314286,37,2093.206286,New,48.92657143,0.26,Cash,Online,East-David
+1059,2023-05-21,Alice,North,119.21,37,4410.77,Returning,118.4854286,0.06,Cash,Retail,North-Alice
+1035,2023-05-22,Alice,South,132.1171429,45,5945.271429,New,118.0797143,0.15,Credit Card,Retail,South-Alice
+1049,2023-05-22,Bob,East,101.2577143,19,1923.896571,Returning,94.77057143,0.14,Cash,Online,East-Bob
+1044,2023-05-23,Bob,West,71.54371429,19,1359.330571,New,62.36428571,0.01,Bank Transfer,Online,West-Bob
+1067,2023-05-23,Bob,North,75.55828571,49,3702.356,Returning,75.09657143,0.11,Cash,Online,North-Bob
+1100,2023-05-23,Bob,West,103.0614286,29,2988.781429,Returning,101.7017143,0.21,Cash,Retail,West-Bob
+1019,2023-05-24,Eve,South,91.50514286,13,1189.566857,New,88.64942857,0.09,Cash,Online,South-Eve
+1005,2023-05-25,Eve,North,41.38685714,2,82.77371429,Returning,39.77571429,0.02,Bank Transfer,Retail,North-Eve
+1091,2023-05-25,Alice,North,107.1608571,24,2571.860571,New,103.98,0.23,Bank Transfer,Retail,North-Alice
+1092,2023-05-25,Bob,East,22.95685714,20,459.1371429,New,19.08885714,0.21,Bank Transfer,Online,East-Bob
+1042,2023-05-26,Bob,East,43.87342857,1,43.87342857,New,40.17828571,0.08,Credit Card,Retail,East-Bob
+1082,2023-05-26,David,South,45.04828571,2,90.09657143,Returning,38.55142857,0.12,Credit Card,Online,South-David
+1001,2023-05-27,Alice,South,130.7571429,7,915.3,New,116.9908571,0.3,Cash,Retail,South-Alice
+1003,2023-05-27,Eve,East,13.08114286,39,510.1645714,New,8.884571429,0.03,Credit Card,Online,East-Eve
+1069,2023-05-27,Charlie,West,40.59714286,44,1786.274286,Returning,30.99228571,0.05,Credit Card,Online,West-Charlie
+1074,2023-05-27,Eve,West,100.0888571,2,200.1777143,New,90.67685714,0.2,Bank Transfer,Retail,West-Eve
+1006,2023-05-28,Bob,North,140.7191429,11,1547.910571,New,130.3594286,0.23,Cash,Retail,North-Bob
+1017,2023-05-28,David,East,151.0585714,35,5287.05,Returning,139.0754286,0.28,Credit Card,Online,East-David
+1019,2023-05-28,Alice,East,120.1534286,28,3364.296,New,111.6531429,0.09,Credit Card,Online,East-Alice
+1050,2023-05-28,Alice,North,117.2205714,6,703.3234286,New,107.5217143,0.11,Credit Card,Retail,North-Alice
+1062,2023-05-28,Bob,South,28.70571429,28,803.76,Returning,26.66171429,0.18,Bank Transfer,Online,South-Bob
+1055,2023-05-29,Eve,North,31.75457143,40,1270.182857,New,27.42085714,0.23,Bank Transfer,Online,North-Eve
+1069,2023-05-29,Alice,North,13.648,30,409.44,New,8.571714286,0.11,Bank Transfer,Retail,North-Alice
+1070,2023-05-29,Charlie,South,112.7857143,14,1579,Returning,108.4797143,0.24,Bank Transfer,Online,South-Charlie
+1002,2023-05-30,David,North,126.29,17,2146.93,Returning,114.9931429,0.04,Cash,Online,North-David
+1002,2023-05-30,Eve,North,43.80257143,44,1927.313143,Returning,39.81657143,0.24,Credit Card,Retail,North-Eve
+1040,2023-05-30,Alice,South,50.01085714,47,2350.510286,New,47.33771429,0.21,Credit Card,Online,South-Alice
+1064,2023-05-31,David,South,34.05428571,8,272.4342857,New,23.32971429,0.03,Cash,Retail,South-David
+1013,2023-06-01,Charlie,East,36.696,16,587.136,Returning,34.91857143,0.03,Credit Card,Retail,East-Charlie
+1019,2023-06-01,Bob,East,117.056,38,4448.128,Returning,103.9214286,0.09,Bank Transfer,Online,East-Bob
+1022,2023-06-01,David,East,73.11285714,9,658.0157143,New,64.67571429,0.03,Cash,Online,East-David
+1050,2023-06-01,Bob,South,121.5922857,23,2796.622571,Returning,107.316,0.04,Cash,Online,South-Bob
+1099,2023-06-01,Alice,South,59.23771429,2,118.4754286,New,58.24,0.16,Cash,Retail,South-Alice
+1024,2023-06-02,Alice,West,109.4488571,2,218.8977143,Returning,102.998,0.12,Credit Card,Online,West-Alice
+1057,2023-06-02,Bob,South,59.64142857,12,715.6971429,New,53.66571429,0.05,Bank Transfer,Retail,South-Bob
+1057,2023-06-02,Eve,East,104.9397143,22,2308.673714,Returning,98.93171429,0.27,Credit Card,Online,East-Eve
+1059,2023-06-02,Bob,West,18.784,47,882.848,Returning,8.204857143,0.14,Credit Card,Retail,West-Bob
+1086,2023-06-02,Bob,East,46.44885714,3,139.3465714,New,45.58142857,0.27,Cash,Online,East-Bob
+1016,2023-06-03,David,West,33.26885714,46,1530.367429,Returning,29.24285714,0.28,Credit Card,Retail,West-David
+1039,2023-06-03,Bob,South,103.124,8,824.992,Returning,96.57542857,0.09,Credit Card,Online,South-Bob
+1069,2023-06-03,David,West,42.368,42,1779.456,New,40.97714286,0.28,Credit Card,Retail,West-David
+1090,2023-06-03,Eve,North,69.756,41,2859.996,New,58.72828571,0.24,Credit Card,Online,North-Eve
+1090,2023-06-03,David,South,10.30114286,47,484.1537143,New,2.438571429,0.28,Cash,Online,South-David
+1021,2023-06-04,Eve,North,50.03542857,22,1100.779429,New,37.04114286,0.22,Cash,Online,North-Eve
+1096,2023-06-04,Bob,South,75.03771429,14,1050.528,Returning,64.34142857,0.21,Credit Card,Online,South-Bob
+1082,2023-06-05,Charlie,East,52.36,15,785.4,Returning,49.12771429,0.12,Credit Card,Online,East-Charlie
+1006,2023-06-06,Bob,East,62.66342857,21,1315.932,New,48.61771429,0.22,Bank Transfer,Retail,East-Bob
+1033,2023-06-06,Alice,East,10.04571429,32,321.4628571,Returning,3.114,0.27,Credit Card,Retail,East-Alice
+1042,2023-06-06,Bob,North,101.8737143,20,2037.474286,Returning,89.00171429,0.3,Credit Card,Retail,North-Bob
+1045,2023-06-06,Bob,South,22.82971429,15,342.4457143,New,9.034857143,0,Bank Transfer,Online,South-Bob
+1079,2023-06-06,David,South,56.95428571,34,1936.445714,Returning,56.22742857,0.15,Credit Card,Online,South-David
+1014,2023-06-07,Alice,North,77.80371429,3,233.4111429,Returning,70.52257143,0.08,Cash,Retail,North-Alice
+1037,2023-06-07,Alice,South,143.3594286,4,573.4377143,New,134.9057143,0.24,Cash,Retail,South-Alice
+1085,2023-06-07,Charlie,East,68.06371429,42,2858.676,Returning,64.40314286,0.15,Credit Card,Retail,East-Charlie
+1099,2023-06-07,Charlie,East,64.55714286,31,2001.271429,New,56.41142857,0.27,Cash,Retail,East-Charlie
+1012,2023-06-08,Bob,East,102.8205714,19,1953.590857,New,98.77942857,0.27,Bank Transfer,Online,East-Bob
+1032,2023-06-08,Eve,West,145.3714286,49,7123.2,Returning,137.4974286,0.09,Credit Card,Online,West-Eve
+1057,2023-06-08,Charlie,East,141.6794286,43,6092.215429,New,130.4968571,0.04,Cash,Retail,East-Charlie
+1017,2023-06-09,Charlie,East,139.5462857,35,4884.12,New,128.018,0.04,Cash,Online,East-Charlie
+1047,2023-06-09,David,East,29.266,18,526.788,Returning,16.02628571,0.26,Cash,Online,East-David
+1093,2023-06-09,Bob,South,11.16828571,38,424.3948571,Returning,2.474,0.25,Credit Card,Online,South-Bob
+1028,2023-06-10,Alice,North,93.01514286,2,186.0302857,Returning,89.88914286,0.06,Bank Transfer,Online,North-Alice
+1029,2023-06-10,Eve,East,18.11885714,15,271.7828571,Returning,14.23628571,0.11,Credit Card,Retail,East-Eve
+1053,2023-06-10,Charlie,East,137.9862857,39,5381.465143,Returning,132.6762857,0.17,Bank Transfer,Online,East-Charlie
+1054,2023-06-10,Bob,South,144.0062857,21,3024.132,New,133.3754286,0.05,Bank Transfer,Online,South-Bob
+1096,2023-06-10,Charlie,South,21.2,6,127.2,New,7.217714286,0.22,Credit Card,Retail,South-Charlie
+1082,2023-06-11,Alice,North,33.116,17,562.972,Returning,25.43742857,0.06,Cash,Retail,North-Alice
+1085,2023-06-11,David,East,91.38685714,8,731.0948571,Returning,87.09942857,0.03,Bank Transfer,Online,East-David
+1008,2023-06-12,Alice,East,127.0542857,32,4065.737143,New,122.8034286,0.1,Bank Transfer,Online,East-Alice
+1078,2023-06-12,Charlie,South,92.07571429,29,2670.195714,Returning,90.79457143,0.08,Credit Card,Retail,South-Charlie
+1030,2023-06-13,Charlie,West,116.6502857,5,583.2514286,New,112.3468571,0.26,Credit Card,Online,West-Charlie
+1097,2023-06-13,Charlie,East,62.60542857,10,626.0542857,Returning,61.79857143,0.2,Credit Card,Online,East-Charlie
+1007,2023-06-14,Alice,North,47.68428571,9,429.1585714,Returning,42.336,0.12,Credit Card,Retail,North-Alice
+1008,2023-06-14,Eve,North,54.02914286,24,1296.699429,New,39.83342857,0.21,Credit Card,Online,North-Eve
+1011,2023-06-14,Alice,South,132.6417143,38,5040.385143,New,127.3334286,0.06,Bank Transfer,Online,South-Alice
+1004,2023-06-15,Alice,East,93.256,13,1212.328,New,88.22085714,0.24,Cash,Retail,East-Alice
+1038,2023-06-15,Alice,West,38.72685714,42,1626.528,New,31.11685714,0.06,Cash,Retail,West-Alice
+1072,2023-06-15,David,North,132.7191429,35,4645.17,Returning,124.2674286,0.18,Credit Card,Retail,North-David
+1075,2023-06-15,Eve,North,55.29285714,26,1437.614286,New,49.98114286,0.14,Credit Card,Online,North-Eve
+1044,2023-06-17,Charlie,North,78.37057143,6,470.2234286,Returning,68.25571429,0.25,Credit Card,Retail,North-Charlie
+1092,2023-06-17,Alice,East,48.65771429,47,2286.912571,Returning,41.35571429,0.12,Bank Transfer,Retail,East-Alice
+1092,2023-06-17,David,East,92.98714286,21,1952.73,New,79.77714286,0.02,Credit Card,Retail,East-David
+1038,2023-06-18,Eve,West,53.22514286,24,1277.403429,New,44.11171429,0.09,Bank Transfer,Online,West-Eve
+1002,2023-06-19,Eve,West,16.46971429,18,296.4548571,New,3.360857143,0.18,Credit Card,Retail,West-Eve
+1029,2023-06-19,Eve,South,102.7611429,27,2774.550857,New,91.32514286,0.01,Cash,Retail,South-Eve
+1045,2023-06-19,David,North,116.4791429,36,4193.249143,Returning,109.5897143,0.1,Credit Card,Retail,North-David
+1012,2023-06-20,Alice,South,22.96314286,47,1079.267714,New,9.307142857,0.12,Bank Transfer,Retail,South-Alice
+1058,2023-06-20,Eve,West,87.11542857,48,4181.540571,New,74.69942857,0.1,Credit Card,Retail,West-Eve
+1018,2023-06-21,Eve,North,29.81285714,28,834.76,New,28.74685714,0.15,Bank Transfer,Retail,North-Eve
+1064,2023-06-21,Bob,West,32.52828571,46,1496.301143,New,28.12942857,0.04,Bank Transfer,Online,West-Bob
+1004,2023-06-22,Eve,South,79.38285714,39,3095.931429,Returning,69.054,0.05,Cash,Online,South-Eve
+1063,2023-06-22,Bob,South,120.3614286,25,3009.035714,New,114.2028571,0.22,Cash,Online,South-Bob
+1079,2023-06-22,Eve,East,19.30114286,49,945.756,Returning,12.50257143,0.1,Cash,Online,East-Eve
+1084,2023-06-22,Eve,North,132.7325714,49,6503.896,Returning,122.6277143,0.26,Credit Card,Online,North-Eve
+1054,2023-06-23,David,West,43.15514286,27,1165.188857,Returning,41.60257143,0.17,Cash,Retail,West-David
+1067,2023-06-23,Bob,North,101.5037143,11,1116.540857,New,98.16228571,0.27,Cash,Retail,North-Bob
+1021,2023-06-24,Alice,West,151.6948571,24,3640.676571,Returning,140.462,0.19,Credit Card,Online,West-Alice
+1024,2023-06-24,Alice,North,92.75228571,43,3988.348286,New,88.72114286,0.25,Cash,Online,North-Alice
+1066,2023-06-24,Bob,West,124.5248571,13,1618.823143,New,118.112,0.13,Cash,Retail,West-Bob
+1016,2023-06-25,Alice,West,99.44514286,2,198.8902857,Returning,89.852,0.12,Cash,Retail,West-Alice
+1031,2023-06-25,Alice,West,23.37542857,10,233.7542857,Returning,16.196,0.25,Credit Card,Retail,West-Alice
+1045,2023-06-25,Eve,South,146.5482857,9,1318.934571,Returning,140.5811429,0.13,Credit Card,Online,South-Eve
+1016,2023-06-26,Charlie,North,106.6774286,3,320.0322857,Returning,97.19628571,0.06,Bank Transfer,Retail,North-Charlie
+1025,2023-06-26,David,North,114.2545714,47,5369.964857,New,110.3317143,0.25,Credit Card,Online,North-David
+1064,2023-06-26,Alice,North,74.24514286,21,1559.148,Returning,65.08685714,0.02,Credit Card,Retail,North-Alice
+1071,2023-06-26,David,North,19.562,35,684.67,New,8.452,0.03,Credit Card,Online,North-David
+1089,2023-06-26,Eve,North,116.6317143,35,4082.11,New,112.1671429,0.22,Cash,Online,North-Eve
+1004,2023-06-27,Alice,West,85.072,2,170.144,Returning,84.378,0.11,Credit Card,Retail,West-Alice
+1021,2023-06-27,Charlie,North,41.84885714,19,795.1282857,New,34.92571429,0,Credit Card,Retail,North-Charlie
+1039,2023-06-27,Bob,East,129.8794286,2,259.7588571,Returning,125.5594286,0.2,Credit Card,Retail,East-Bob
+1080,2023-06-27,Eve,West,37.748,35,1321.18,Returning,25.742,0.1,Cash,Online,West-Eve
+1004,2023-06-28,Bob,West,145.3731429,38,5524.179429,Returning,139.4751429,0.16,Credit Card,Retail,West-Bob
+1023,2023-06-28,Eve,East,122.1028571,9,1098.925714,Returning,118.7274286,0.25,Cash,Retail,East-Eve
+1059,2023-06-28,Bob,North,69.64857143,13,905.4314286,New,56.27942857,0.19,Credit Card,Retail,North-Bob
+1090,2023-06-28,Charlie,North,112.7648571,41,4623.359143,Returning,106.768,0.06,Credit Card,Online,North-Charlie
+1067,2023-06-29,Eve,South,132.1588571,48,6343.625143,Returning,123.4091429,0.1,Bank Transfer,Online,South-Eve
+1075,2023-06-29,David,South,31.29857143,30,938.9571429,New,21.08742857,0.05,Bank Transfer,Online,South-David
+1032,2023-06-30,Eve,North,81.14685714,6,486.8811429,Returning,72.07885714,0.07,Credit Card,Retail,North-Eve
+1065,2023-06-30,Eve,South,41.19657143,13,535.5554286,Returning,38.25714286,0.23,Credit Card,Retail,South-Eve
+1086,2023-06-30,Bob,North,64.59457143,46,2971.350286,New,64.16114286,0,Cash,Retail,North-Bob
+1027,2023-07-01,Eve,North,48.88428571,15,733.2642857,New,46.15028571,0.23,Credit Card,Retail,North-Eve
+1036,2023-07-01,Alice,West,52.59342857,17,894.0882857,Returning,42.14285714,0.1,Credit Card,Online,West-Alice
+1090,2023-07-01,David,North,139.4514286,31,4322.994286,New,128.4817143,0.06,Cash,Retail,North-David
+1014,2023-07-02,David,East,135.6305714,7,949.414,New,134.4417143,0.27,Bank Transfer,Retail,East-David
+1067,2023-07-02,Alice,North,32.86514286,36,1183.145143,New,19.70457143,0.2,Bank Transfer,Online,North-Alice
+1066,2023-07-03,Charlie,North,81.92457143,15,1228.868571,Returning,73.69457143,0.04,Bank Transfer,Retail,North-Charlie
+1029,2023-07-04,Charlie,North,37.72342857,31,1169.426286,New,27.17742857,0.15,Cash,Online,North-Charlie
+1067,2023-07-05,Alice,West,109.6148571,27,2959.601143,New,103.5705714,0.08,Cash,Online,West-Alice
+1053,2023-07-06,Charlie,East,15.43942857,11,169.8337143,New,5.730285714,0.18,Bank Transfer,Online,East-Charlie
+1055,2023-07-06,Eve,South,127.4717143,16,2039.547429,Returning,119.868,0.09,Bank Transfer,Online,South-Eve
+1004,2023-07-07,Eve,North,75.61514286,35,2646.53,Returning,65.11057143,0.09,Bank Transfer,Online,North-Eve
+1033,2023-07-07,Eve,East,124.4997143,13,1618.496286,New,124.0722857,0.08,Bank Transfer,Online,East-Eve
+1047,2023-07-07,David,South,37.97885714,15,569.6828571,New,27.37,0.21,Cash,Online,South-David
+1080,2023-07-07,Charlie,West,128.4322857,14,1798.052,New,117.9297143,0.06,Bank Transfer,Retail,West-Charlie
+1092,2023-07-07,Alice,South,77.41142857,14,1083.76,Returning,73.13285714,0.11,Credit Card,Retail,South-Alice
+1042,2023-07-08,Alice,East,44.79371429,23,1030.255429,Returning,37.54285714,0.15,Credit Card,Retail,East-Alice
+1086,2023-07-09,David,North,79.02257143,28,2212.632,Returning,73.26714286,0.17,Credit Card,Online,North-David
+1047,2023-07-10,David,North,125.2814286,36,4510.131429,New,115.5294286,0.14,Cash,Online,North-David
+1025,2023-07-11,Charlie,West,92.564,40,3702.56,New,85.25285714,0.27,Credit Card,Online,West-Charlie
+1092,2023-07-11,Eve,East,88.08742857,33,2906.885143,New,74.15485714,0.08,Credit Card,Online,East-Eve
+1023,2023-07-12,Alice,North,26.994,2,53.988,New,19.02542857,0.1,Credit Card,Retail,North-Alice
+1046,2023-07-12,Eve,North,115.5811429,17,1964.879429,Returning,110.0282857,0.16,Credit Card,Online,North-Eve
+1058,2023-07-12,Eve,East,79.91085714,14,1118.752,New,77.25628571,0.13,Bank Transfer,Online,East-Eve
+1004,2023-07-13,Eve,East,33.97771429,16,543.6434286,Returning,30.50942857,0.26,Credit Card,Retail,East-Eve
+1021,2023-07-13,Bob,West,127.6877143,43,5490.571714,Returning,118.6942857,0.23,Cash,Retail,West-Bob
+1054,2023-07-13,Alice,South,134.1202857,47,6303.653429,New,126.5657143,0.25,Bank Transfer,Online,South-Alice
+1027,2023-07-14,Bob,South,103.0311429,22,2266.685143,New,92.57714286,0.07,Cash,Online,South-Bob
+1030,2023-07-14,Bob,East,145.372,39,5669.508,New,140.8494286,0.23,Bank Transfer,Retail,East-Bob
+1081,2023-07-14,Eve,North,73.37514286,16,1174.002286,New,72.29,0.01,Credit Card,Online,North-Eve
+1017,2023-07-15,David,North,61.36571429,23,1411.411429,New,50.61485714,0.07,Bank Transfer,Online,North-David
+1052,2023-07-15,Charlie,East,88.01742857,48,4224.836571,Returning,85.78142857,0.18,Bank Transfer,Retail,East-Charlie
+1017,2023-07-16,Alice,South,33.71542857,18,606.8777143,Returning,30.56371429,0.22,Bank Transfer,Online,South-Alice
+1003,2023-07-17,Eve,West,53.45371429,15,801.8057143,Returning,49.404,0.23,Cash,Online,West-Eve
+1019,2023-07-17,David,South,53.794,14,753.116,New,46.11971429,0.25,Credit Card,Retail,South-David
+1030,2023-07-17,David,West,91.692,19,1742.148,Returning,87.12371429,0.26,Cash,Online,West-David
+1089,2023-07-17,Charlie,North,28.622,31,887.282,New,24.14685714,0.03,Cash,Online,North-Charlie
+1090,2023-07-17,David,North,43.27457143,14,605.844,New,38.58485714,0.2,Credit Card,Retail,North-David
+1019,2023-07-18,Alice,North,147.0251429,12,1764.301714,Returning,135.5765714,0.19,Credit Card,Online,North-Alice
+1050,2023-07-18,Eve,South,142.0965714,43,6110.152571,Returning,138.1277143,0.03,Bank Transfer,Online,South-Eve
+1052,2023-07-18,Eve,South,25.93228571,42,1089.156,New,11.94171429,0.04,Cash,Retail,South-Eve
+1062,2023-07-19,Charlie,North,87.27971429,10,872.7971429,Returning,84.01142857,0.08,Credit Card,Online,North-Charlie
+1090,2023-07-19,Charlie,West,69.68485714,10,696.8485714,Returning,68.218,0.02,Bank Transfer,Retail,West-Charlie
+1055,2023-07-20,Eve,West,129.6554286,43,5575.183429,Returning,117.4771429,0.13,Bank Transfer,Online,West-Eve
+1062,2023-07-20,Eve,North,55.40114286,48,2659.254857,New,47.99114286,0.09,Credit Card,Online,North-Eve
+1086,2023-07-20,Bob,North,39.04628571,17,663.7868571,New,30.20771429,0.21,Credit Card,Retail,North-Bob
+1017,2023-07-21,David,East,11.56257143,1,11.56257143,Returning,4.931142857,0.29,Bank Transfer,Online,East-David
+1023,2023-07-21,Eve,North,46.27685714,4,185.1074286,Returning,43.79428571,0.05,Bank Transfer,Retail,North-Eve
+1063,2023-07-21,Bob,East,33.60485714,32,1075.355429,New,27.866,0.22,Bank Transfer,Retail,East-Bob
+1066,2023-07-21,Charlie,East,33.65,4,134.6,Returning,24.82371429,0.21,Credit Card,Retail,East-Charlie
+1039,2023-07-22,Alice,East,102.8611429,42,4320.168,Returning,89.14828571,0.19,Credit Card,Retail,East-Alice
+1042,2023-07-23,Charlie,West,120.7588571,26,3139.730286,Returning,120.2311429,0.29,Cash,Retail,West-Charlie
+1056,2023-07-23,Bob,West,77.35,35,2707.25,New,66.998,0.12,Credit Card,Retail,West-Bob
+1098,2023-07-24,Alice,South,121.6811429,19,2311.941714,Returning,115.8717143,0.03,Credit Card,Online,South-Alice
+1003,2023-07-25,Eve,West,71.15628571,5,355.7814286,New,63.04514286,0.28,Cash,Online,West-Eve
+1047,2023-07-25,Charlie,East,108.0442857,19,2052.841429,Returning,99.56057143,0.21,Credit Card,Retail,East-Charlie
+1015,2023-07-26,David,North,135.946,9,1223.514,Returning,133.7242857,0.05,Bank Transfer,Online,North-David
+1062,2023-07-27,David,South,41.77685714,44,1838.181714,New,28.22114286,0.24,Bank Transfer,Online,South-David
+1078,2023-07-27,Eve,North,32.25457143,3,96.76371429,New,25.78228571,0.01,Bank Transfer,Retail,North-Eve
+1025,2023-07-28,David,West,33.55657143,37,1241.593143,New,31.85771429,0.22,Credit Card,Online,West-David
+1054,2023-07-28,David,East,146.3448571,20,2926.897143,New,132.0611429,0.26,Cash,Retail,East-David
+1082,2023-07-28,Alice,East,107.9697143,48,5182.546286,Returning,96.58628571,0.3,Bank Transfer,Online,East-Alice
+1044,2023-07-29,Alice,North,52.30742857,47,2458.449143,New,43.20971429,0.12,Bank Transfer,Online,North-Alice
+1059,2023-07-29,Bob,South,127.5508571,16,2040.813714,Returning,122.4917143,0.2,Credit Card,Retail,South-Bob
+1082,2023-07-29,Eve,East,41.06057143,46,1888.786286,New,31.50542857,0.11,Credit Card,Online,East-Eve
+1096,2023-07-29,Charlie,West,122.0168571,38,4636.640571,Returning,113.0188571,0.15,Credit Card,Online,West-Charlie
+1048,2023-07-30,Alice,North,65.98371429,6,395.9022857,New,55.57914286,0.26,Credit Card,Online,North-Alice
+1088,2023-07-30,Eve,East,134.1114286,1,134.1114286,New,125.2754286,0.14,Cash,Retail,East-Eve
+1002,2023-07-31,David,East,124.62,21,2617.02,Returning,118.2402857,0.07,Credit Card,Retail,East-David
+1039,2023-08-01,Eve,West,89.286,36,3214.296,New,83.4,0.24,Cash,Online,West-Eve
+1063,2023-08-01,Bob,South,42.15114286,4,168.6045714,Returning,29.89314286,0.09,Bank Transfer,Retail,South-Bob
+1029,2023-08-02,Eve,South,139.4042857,46,6412.597143,Returning,131.7045714,0.3,Cash,Retail,South-Eve
+1038,2023-08-02,Alice,East,92.32342857,43,3969.907429,Returning,86.60485714,0.22,Cash,Retail,East-Alice
+1096,2023-08-02,Bob,North,122.3368571,30,3670.105714,Returning,113.4245714,0.08,Bank Transfer,Retail,North-Bob
+1001,2023-08-03,Bob,West,65.82,20,1316.4,Returning,61.52914286,0.01,Cash,Retail,West-Bob
+1002,2023-08-03,Alice,South,91.25028571,16,1460.004571,Returning,82.06857143,0.04,Credit Card,Online,South-Alice
+1016,2023-08-03,Alice,West,135.5151429,16,2168.242286,Returning,127.3622857,0.19,Cash,Online,West-Alice
+1023,2023-08-03,David,West,137.8834286,45,6204.754286,Returning,134.064,0.19,Bank Transfer,Retail,West-David
+1033,2023-08-03,Alice,West,17.00571429,40,680.2285714,Returning,15.46257143,0.19,Credit Card,Online,West-Alice
+1043,2023-08-03,David,East,133.0451429,22,2926.993143,New,121.7142857,0,Bank Transfer,Online,East-David
+1001,2023-08-04,David,West,101.8277143,20,2036.554286,Returning,93.70742857,0.25,Cash,Retail,West-David
+1028,2023-08-04,Alice,North,98.56971429,38,3745.649143,New,95.72342857,0.26,Cash,Online,North-Alice
+1035,2023-08-04,David,South,109.7062857,30,3291.188571,New,108.9605714,0.21,Credit Card,Online,South-David
+1047,2023-08-04,Eve,South,142.1908571,47,6682.970286,Returning,135.1311429,0.18,Credit Card,Retail,South-Eve
+1001,2023-08-05,Bob,North,53.46342857,4,213.8537143,Returning,51.19514286,0.12,Bank Transfer,Online,North-Bob
+1030,2023-08-05,Bob,West,101.834,34,3462.356,Returning,89.28771429,0.09,Cash,Online,West-Bob
+1069,2023-08-06,Bob,North,72.36771429,4,289.4708571,New,71.02457143,0.01,Credit Card,Online,North-Bob
+1079,2023-08-06,David,North,44.21,45,1989.45,New,40.19714286,0.17,Cash,Retail,North-David
+1015,2023-08-07,Alice,East,12.728,19,241.832,New,12.38685714,0.29,Bank Transfer,Retail,East-Alice
+1077,2023-08-07,Charlie,East,134.9914286,43,5804.631429,New,125.7902857,0.1,Bank Transfer,Retail,East-Charlie
+1044,2023-08-08,Alice,North,18.31942857,18,329.7497143,New,12.28971429,0.13,Cash,Online,North-Alice
+1047,2023-08-08,David,North,40.77742857,33,1345.655143,Returning,38.33,0.15,Credit Card,Online,North-David
+1047,2023-08-09,David,North,83.69857143,41,3431.641429,New,82.52828571,0.06,Cash,Retail,North-David
+1017,2023-08-10,Alice,North,47.85628571,43,2057.820286,New,41.56571429,0.03,Credit Card,Online,North-Alice
+1024,2023-08-10,Eve,South,44.53914286,30,1336.174286,Returning,44.11314286,0.28,Credit Card,Online,South-Eve
+1064,2023-08-10,Bob,South,13.94942857,5,69.74714286,Returning,12.03,0.07,Credit Card,Retail,South-Bob
+1075,2023-08-10,Charlie,North,143.922,17,2446.674,Returning,141.9045714,0.24,Bank Transfer,Retail,North-Charlie
+1015,2023-08-11,Eve,East,38.024,32,1216.768,Returning,27.72885714,0.06,Cash,Retail,East-Eve
+1027,2023-08-11,Eve,North,130.6345714,43,5617.286571,New,120.9317143,0.01,Cash,Retail,North-Eve
+1028,2023-08-11,Charlie,West,142.45,45,6410.25,Returning,138.5422857,0.2,Bank Transfer,Online,West-Charlie
+1032,2023-08-11,David,East,146.546,5,732.73,New,134.7068571,0.25,Bank Transfer,Online,East-David
+1082,2023-08-11,Charlie,North,73.74285714,43,3170.942857,New,65.40628571,0.05,Bank Transfer,Online,North-Charlie
+1018,2023-08-12,Charlie,North,91.89771429,9,827.0794286,New,90.31685714,0.17,Bank Transfer,Online,North-Charlie
+1028,2023-08-12,Charlie,South,118.9622857,41,4877.453714,New,113.0294286,0.12,Bank Transfer,Retail,South-Charlie
+1060,2023-08-12,David,North,117.0422857,5,585.2114286,Returning,113.4308571,0.13,Cash,Retail,North-David
+1074,2023-08-12,Bob,East,85.564,2,171.128,Returning,81.94342857,0.18,Bank Transfer,Online,East-Bob
+1075,2023-08-12,David,East,56.11857143,14,785.66,Returning,46.08371429,0.24,Bank Transfer,Retail,East-David
+1023,2023-08-13,Bob,East,9.610571429,38,365.2017143,New,9.27,0.28,Credit Card,Retail,East-Bob
+1035,2023-08-13,Alice,West,127.2848571,5,636.4242857,New,114.0482857,0.14,Credit Card,Retail,West-Alice
+1084,2023-08-13,Alice,West,107.5802857,21,2259.186,New,99.94228571,0.08,Cash,Online,West-Alice
+1013,2023-08-14,Alice,East,118.2522857,26,3074.559429,New,107.1177143,0.13,Credit Card,Online,East-Alice
+1063,2023-08-14,Bob,North,118.4888571,27,3199.199143,New,107.4357143,0.22,Cash,Online,North-Bob
+1065,2023-08-14,Bob,West,131.7854286,26,3426.421143,Returning,123.9385714,0.01,Cash,Retail,West-Bob
+1066,2023-08-14,Alice,South,30.652,20,613.04,New,27.29085714,0.03,Bank Transfer,Retail,South-Alice
+1083,2023-08-14,Eve,West,75.39885714,42,3166.752,New,71.58314286,0.1,Bank Transfer,Online,West-Eve
+1093,2023-08-14,David,West,19.35714286,6,116.1428571,Returning,6.717714286,0.16,Credit Card,Online,West-David
+1100,2023-08-14,Bob,West,32.49828571,43,1397.426286,Returning,31.45171429,0.08,Bank Transfer,Online,West-Bob
+1033,2023-08-15,Eve,East,45.61857143,29,1322.938571,Returning,40.34542857,0.07,Cash,Online,East-Eve
+1046,2023-08-15,Alice,South,118.13,4,472.52,Returning,117.0028571,0.09,Bank Transfer,Retail,South-Alice
+1063,2023-08-15,Alice,East,43.66142857,26,1135.197143,New,29.91314286,0.07,Credit Card,Retail,East-Alice
+1068,2023-08-15,Alice,South,39.55142857,21,830.58,Returning,32.64371429,0.02,Credit Card,Retail,South-Alice
+1074,2023-08-15,David,West,62.78342857,29,1820.719429,New,49.22885714,0.07,Bank Transfer,Retail,West-David
+1075,2023-08-15,Charlie,North,74.59542857,28,2088.672,Returning,73.43485714,0.27,Bank Transfer,Retail,North-Charlie
+1014,2023-08-16,David,South,22.87428571,26,594.7314286,Returning,12.37685714,0.2,Cash,Online,South-David
+1059,2023-08-16,Alice,West,91.22828571,21,1915.794,New,88.87257143,0.17,Credit Card,Online,West-Alice
+1086,2023-08-16,Alice,East,83.61942857,48,4013.732571,Returning,75.21657143,0.14,Cash,Online,East-Alice
+1007,2023-08-17,Eve,East,132.3742857,16,2117.988571,New,123.1517143,0.28,Credit Card,Retail,East-Eve
+1009,2023-08-17,Bob,West,26.23342857,33,865.7031429,Returning,12.87771429,0.11,Cash,Online,West-Bob
+1016,2023-08-17,Eve,West,22.26657143,7,155.866,Returning,8.084,0.28,Credit Card,Online,West-Eve
+1022,2023-08-17,Charlie,South,81.98857143,21,1721.76,New,72.49142857,0.29,Bank Transfer,Retail,South-Charlie
+1060,2023-08-17,Bob,East,126.3597143,16,2021.755429,New,113.5997143,0.24,Cash,Online,East-Bob
+1090,2023-08-19,Bob,West,76.22914286,31,2363.103429,Returning,67.08028571,0.09,Bank Transfer,Retail,West-Bob
+1005,2023-08-20,Bob,North,137.6842857,21,2891.37,New,125.0391429,0,Credit Card,Retail,North-Bob
+1050,2023-08-21,David,North,75.84714286,17,1289.401429,New,67.05142857,0.13,Cash,Retail,North-David
+1072,2023-08-21,Alice,West,25.04171429,12,300.5005714,Returning,20.314,0.03,Credit Card,Online,West-Alice
+1080,2023-08-21,David,South,72.15057143,12,865.8068571,Returning,66.17514286,0.12,Credit Card,Retail,South-David
+1092,2023-08-22,David,East,59.15771429,29,1715.573714,New,49.77828571,0.12,Cash,Online,East-David
+1027,2023-08-23,Bob,East,15.66428571,4,62.65714286,New,8.074571429,0.17,Credit Card,Online,East-Bob
+1036,2023-08-23,David,East,77.346,25,1933.65,New,72.02771429,0.25,Cash,Retail,East-David
+1072,2023-08-24,Bob,South,127.65,39,4978.35,New,123.7151429,0.02,Credit Card,Retail,South-Bob
+1075,2023-08-24,Charlie,West,40.42514286,42,1697.856,New,27.65057143,0.17,Bank Transfer,Online,West-Charlie
+1079,2023-08-24,Alice,North,111.1891429,8,889.5131429,Returning,108.8065714,0.26,Bank Transfer,Online,North-Alice
+1080,2023-08-24,Bob,West,85.13257143,17,1447.253714,Returning,78.362,0.01,Cash,Retail,West-Bob
+1089,2023-08-24,Eve,North,135.0785714,4,540.3142857,Returning,120.9071429,0.12,Credit Card,Retail,North-Eve
+1095,2023-08-24,Bob,West,28.548,20,570.96,New,20.83628571,0.1,Bank Transfer,Online,West-Bob
+1024,2023-08-25,David,South,58.48942857,42,2456.556,New,45.31485714,0.25,Cash,Retail,South-David
+1032,2023-08-25,Bob,North,136.0337143,23,3128.775429,Returning,133.5197143,0.17,Credit Card,Retail,North-Bob
+1041,2023-08-25,Bob,South,50.18114286,31,1555.615429,Returning,45.84342857,0.17,Cash,Retail,South-Bob
+1072,2023-08-25,Charlie,South,44.14342857,12,529.7211429,New,43.35428571,0.03,Bank Transfer,Retail,South-Charlie
+1099,2023-08-26,David,West,73.39228571,17,1247.668857,New,70.62085714,0.05,Cash,Retail,West-David
+1008,2023-08-27,David,South,85.75885714,40,3430.354286,Returning,76.78542857,0.26,Bank Transfer,Online,South-David
+1019,2023-08-27,Charlie,North,109.2282857,18,1966.109143,Returning,102.604,0.09,Credit Card,Online,North-Charlie
+1021,2023-08-27,Eve,North,16.69828571,19,317.2674286,Returning,12.68714286,0.28,Cash,Retail,North-Eve
+1042,2023-08-29,Eve,South,41.55457143,27,1121.973429,Returning,32.55571429,0.3,Bank Transfer,Online,South-Eve
+1099,2023-08-29,Alice,West,149.8817143,44,6594.795429,Returning,140.946,0.13,Bank Transfer,Retail,West-Alice
+1033,2023-08-30,Bob,East,21.02714286,14,294.38,Returning,14.40857143,0.21,Cash,Retail,East-Bob
+1077,2023-08-30,Alice,West,7.397714286,25,184.9428571,New,1.757142857,0.17,Credit Card,Online,West-Alice
+1018,2023-08-31,Alice,East,66.66257143,1,66.66257143,New,66.16657143,0.01,Cash,Retail,East-Alice
+1026,2023-08-31,Alice,East,41.56228571,25,1039.057143,Returning,33.05371429,0.06,Credit Card,Online,East-Alice
+1028,2023-08-31,Eve,North,69.98971429,28,1959.712,New,58.72228571,0.19,Credit Card,Online,North-Eve
+1059,2023-08-31,Alice,North,107.5577143,35,3764.52,Returning,95.24685714,0.02,Credit Card,Online,North-Alice
+1092,2023-08-31,Eve,South,127.4971429,47,5992.365714,New,122.428,0.28,Credit Card,Retail,South-Eve
+1019,2023-09-01,David,West,13.91514286,16,222.6422857,New,2.778285714,0.22,Bank Transfer,Retail,West-David
+1086,2023-09-01,Charlie,West,121.7774286,17,2070.216286,New,116.4308571,0.17,Cash,Online,West-Charlie
+1058,2023-09-02,David,South,31.054,9,279.486,Returning,21.73,0.15,Cash,Retail,South-David
+1023,2023-09-03,David,South,136.7331429,32,4375.460571,New,136.4297143,0.03,Cash,Online,South-David
+1055,2023-09-03,Charlie,West,84.90714286,12,1018.885714,Returning,72.53171429,0.24,Cash,Online,West-Charlie
+1068,2023-09-04,Eve,East,41.10742857,14,575.504,Returning,32.588,0.03,Bank Transfer,Online,East-Eve
+1081,2023-09-04,Alice,North,44.09657143,23,1014.221143,New,35.32142857,0.1,Bank Transfer,Online,North-Alice
+1091,2023-09-04,Charlie,South,68.75942857,44,3025.414857,Returning,59.58457143,0.06,Bank Transfer,Retail,South-Charlie
+1020,2023-09-06,Charlie,East,111.2457143,4,444.9828571,New,106.5714286,0.25,Bank Transfer,Retail,East-Charlie
+1020,2023-09-06,Bob,East,64.43,45,2899.35,New,62.52714286,0.11,Bank Transfer,Retail,East-Bob
+1013,2023-09-07,Alice,West,35.95142857,16,575.2228571,Returning,26.27371429,0.14,Bank Transfer,Online,West-Alice
+1019,2023-09-07,Bob,West,74.40171429,27,2008.846286,Returning,68.21485714,0.16,Cash,Online,West-Bob
+1067,2023-09-07,Bob,North,53.04,37,1962.48,New,50.12342857,0.21,Bank Transfer,Retail,North-Bob
+1005,2023-09-08,Eve,North,139.1285714,9,1252.157143,New,135.3445714,0.07,Cash,Online,North-Eve
+1020,2023-09-08,Eve,North,136.2977143,26,3543.740571,New,127.7814286,0.01,Credit Card,Retail,North-Eve
+1046,2023-09-08,Alice,North,19.37257143,30,581.1771429,Returning,9.163714286,0.08,Cash,Retail,North-Alice
+1087,2023-09-08,Charlie,North,8.505428571,20,170.1085714,New,5.522,0.22,Cash,Online,North-Charlie
+1089,2023-09-08,Bob,West,122.1702857,40,4886.811429,New,116.8474286,0.23,Credit Card,Online,West-Bob
+1003,2023-09-11,David,East,123.7548571,22,2722.606857,New,120.5265714,0.26,Bank Transfer,Online,East-David
+1096,2023-09-11,Eve,South,29.492,23,678.316,New,17.38771429,0.25,Cash,Retail,South-Eve
+1014,2023-09-12,Charlie,East,19.002,48,912.096,Returning,15.90628571,0.01,Bank Transfer,Retail,East-Charlie
+1037,2023-09-13,Bob,South,68.15657143,5,340.7828571,Returning,55.47314286,0.15,Credit Card,Online,South-Bob
+1001,2023-09-14,Eve,South,82.562,39,3219.918,Returning,69.636,0.25,Cash,Online,South-Eve
+1003,2023-09-14,Bob,West,96.824,15,1452.36,Returning,93.89257143,0.09,Credit Card,Retail,West-Bob
+1074,2023-09-14,David,South,16.16057143,29,468.6565714,Returning,4.962,0.3,Cash,Online,South-David
+1090,2023-09-14,Charlie,West,76.95228571,47,3616.757429,New,67.37,0.18,Bank Transfer,Online,West-Charlie
+1054,2023-09-15,Bob,South,144.096,16,2305.536,Returning,130.2225714,0.14,Credit Card,Retail,South-Bob
+1006,2023-09-16,Bob,North,89.90285714,49,4405.24,New,81.25028571,0.08,Cash,Retail,North-Bob
+1012,2023-09-16,David,South,50.39114286,19,957.4317143,New,40.78342857,0.03,Cash,Retail,South-David
+1100,2023-09-17,Charlie,North,15.09971429,17,256.6951429,New,2.389714286,0.13,Credit Card,Online,North-Charlie
+1006,2023-09-18,David,West,51.84657143,45,2333.095714,New,46.38942857,0.29,Bank Transfer,Retail,West-David
+1008,2023-09-18,Charlie,South,35.31714286,32,1130.148571,New,26.32342857,0.12,Credit Card,Online,South-Charlie
+1057,2023-09-18,Charlie,West,57.93542857,25,1448.385714,New,52.05457143,0.02,Bank Transfer,Retail,West-Charlie
+1085,2023-09-18,Eve,East,129.1877143,40,5167.508571,New,116.6637143,0.27,Bank Transfer,Retail,East-Eve
+1093,2023-09-18,David,West,109.8431429,19,2087.019714,New,108.8168571,0.21,Credit Card,Online,West-David
+1019,2023-09-19,Charlie,West,86.748,45,3903.66,New,74.01828571,0.05,Bank Transfer,Retail,West-Charlie
+1025,2023-09-19,Alice,East,62.93914286,26,1636.417714,Returning,57.352,0.11,Cash,Online,East-Alice
+1037,2023-09-19,Alice,South,45.01685714,17,765.2865714,New,37.388,0.3,Cash,Online,South-Alice
+1039,2023-09-19,Bob,South,23.35314286,28,653.888,Returning,19.05257143,0.02,Cash,Retail,South-Bob
+1097,2023-09-20,David,North,53.38057143,45,2402.125714,Returning,43.57514286,0.24,Cash,Retail,North-David
+1015,2023-09-21,David,South,10.61142857,30,318.3428571,Returning,7.473142857,0.2,Bank Transfer,Retail,South-David
+1061,2023-09-21,Charlie,South,86.486,25,2162.15,New,78.50457143,0.23,Cash,Online,South-Charlie
+1062,2023-09-21,David,North,137.8142857,37,5099.128571,Returning,133.0982857,0.14,Credit Card,Online,North-David
+1076,2023-09-21,Bob,North,57.22714286,26,1487.905714,Returning,50.34285714,0.29,Credit Card,Retail,North-Bob
+1084,2023-09-21,Eve,South,42.45,36,1528.2,New,41.67914286,0.25,Credit Card,Online,South-Eve
+1015,2023-09-22,David,South,130.7634286,22,2876.795429,Returning,122.1597143,0.02,Cash,Retail,South-David
+1036,2023-09-23,Bob,North,113.3625714,42,4761.228,New,101.4122857,0.14,Bank Transfer,Online,North-Bob
+1093,2023-09-23,Charlie,North,30.73971429,40,1229.588571,New,29.92142857,0.28,Credit Card,Retail,North-Charlie
+1100,2023-09-23,Charlie,North,64.512,19,1225.728,New,52.02542857,0.12,Cash,Retail,North-Charlie
+1005,2023-09-24,Eve,South,11.02371429,6,66.14228571,Returning,3.5,0.1,Cash,Retail,South-Eve
+1015,2023-09-24,Bob,East,103.7642857,35,3631.75,Returning,98.89,0.27,Credit Card,Online,East-Bob
+1046,2023-09-24,Charlie,West,59.25371429,41,2429.402286,Returning,52.15342857,0.27,Cash,Retail,West-Charlie
+1089,2023-09-24,Bob,South,71.03257143,48,3409.563429,New,64.19057143,0.03,Cash,Retail,South-Bob
+1097,2023-09-24,Alice,East,129.9454286,9,1169.508857,Returning,116.208,0.12,Credit Card,Retail,East-Alice
+1039,2023-09-25,Eve,West,123.2414286,37,4559.932857,New,117.9157143,0.16,Cash,Online,West-Eve
+1066,2023-09-25,Eve,East,51.58742857,47,2424.609143,New,37.69257143,0.26,Credit Card,Retail,East-Eve
+1006,2023-09-26,Bob,East,139.4251429,14,1951.952,New,128.678,0.24,Bank Transfer,Retail,East-Bob
+1018,2023-09-26,David,East,31.51514286,25,787.8785714,New,21.13228571,0.26,Bank Transfer,Retail,East-David
+1090,2023-09-26,Eve,North,15.77971429,11,173.5768571,Returning,6.009428571,0.18,Cash,Retail,North-Eve
+1047,2023-09-27,Eve,North,23.03257143,32,737.0422857,Returning,10.51371429,0.22,Credit Card,Retail,North-Eve
+1058,2023-09-27,Eve,West,103.8577143,29,3011.873714,New,102.2505714,0.2,Bank Transfer,Retail,West-Eve
+1088,2023-09-27,Eve,North,138.7491429,12,1664.989714,Returning,125.4068571,0.15,Cash,Retail,North-Eve
+1004,2023-09-28,Eve,South,137.72,27,3718.44,New,124.4171429,0.14,Credit Card,Retail,South-Eve
+1049,2023-09-28,Alice,West,99.01,44,4356.44,Returning,95.75228571,0.12,Bank Transfer,Online,West-Alice
+1036,2023-09-29,Bob,North,81.36457143,7,569.552,New,73.962,0.22,Cash,Retail,North-Bob
+1023,2023-09-30,Charlie,North,52.26171429,8,418.0937143,Returning,44.67942857,0.15,Cash,Online,North-Charlie
+1048,2023-09-30,Charlie,North,83.15742857,4,332.6297143,New,82.86114286,0.22,Credit Card,Retail,North-Charlie
+1084,2023-09-30,Alice,East,10.912,30,327.36,Returning,4.828571429,0.26,Cash,Retail,East-Alice
+1077,2023-10-01,Alice,West,112.2874286,5,561.4371429,New,104.3111429,0.17,Bank Transfer,Online,West-Alice
+1091,2023-10-01,Eve,East,56.36057143,15,845.4085714,Returning,43.84857143,0.06,Credit Card,Retail,East-Eve
+1093,2023-10-01,Eve,East,84.44314286,22,1857.749143,Returning,74.104,0,Bank Transfer,Retail,East-Eve
+1053,2023-10-02,David,East,116.0297143,29,3364.861714,Returning,106.8942857,0.21,Credit Card,Online,East-David
+1093,2023-10-02,Bob,West,43.01257143,43,1849.540571,New,42.47885714,0.08,Cash,Retail,West-Bob
+1079,2023-10-04,Eve,East,145.164,12,1741.968,New,135.8291429,0.2,Cash,Online,East-Eve
+1088,2023-10-04,Bob,East,143.8385714,40,5753.542857,New,140.1408571,0.1,Credit Card,Retail,East-Bob
+1063,2023-10-05,Alice,South,64.17828571,27,1732.813714,New,59.11657143,0.06,Bank Transfer,Retail,South-Alice
+1066,2023-10-05,Alice,South,144.1354286,4,576.5417143,New,131.3337143,0.01,Bank Transfer,Online,South-Alice
+1051,2023-10-07,Bob,West,104.5548571,3,313.6645714,New,98.13571429,0.16,Cash,Online,West-Bob
+1060,2023-10-07,Alice,South,25.77885714,23,592.9137143,New,18.50571429,0.17,Bank Transfer,Online,South-Alice
+1001,2023-10-08,Bob,West,94.50714286,33,3118.735714,Returning,83.81542857,0.01,Bank Transfer,Retail,West-Bob
+1032,2023-10-08,Eve,East,59.47285714,11,654.2014286,New,57.87628571,0.27,Bank Transfer,Online,East-Eve
+1052,2023-10-09,David,West,51.22371429,41,2100.172286,New,43.14228571,0.04,Cash,Retail,West-David
+1062,2023-10-09,Bob,East,58.11857143,4,232.4742857,Returning,45.18828571,0.21,Cash,Online,East-Bob
+1075,2023-10-09,Charlie,West,76.63828571,18,1379.489143,New,63.66714286,0.13,Bank Transfer,Online,West-Charlie
+1095,2023-10-09,David,North,23.43914286,21,492.222,Returning,17.74428571,0.24,Bank Transfer,Online,North-David
+1001,2023-10-10,David,West,86.09971429,18,1549.794857,Returning,74.36,0.08,Bank Transfer,Online,West-David
+1019,2023-10-11,Eve,South,93.89914286,32,3004.772571,New,81.89914286,0.09,Credit Card,Online,South-Eve
+1010,2023-10-12,Charlie,North,127.8625714,20,2557.251429,Returning,122.8211429,0.16,Cash,Online,North-Charlie
+1019,2023-10-12,Charlie,West,142.73,16,2283.68,New,142.2222857,0.25,Credit Card,Online,West-Charlie
+1032,2023-10-12,Alice,North,43.674,17,742.458,Returning,36.91171429,0.11,Credit Card,Retail,North-Alice
+1052,2023-10-12,David,North,91.38542857,46,4203.729714,Returning,89.612,0.29,Cash,Retail,North-David
+1077,2023-10-12,David,South,23.49685714,23,540.4277143,Returning,15.92914286,0.29,Credit Card,Online,South-David
+1089,2023-10-12,David,South,113.2751429,25,2831.878571,Returning,100.3625714,0.03,Credit Card,Retail,South-David
+1008,2023-10-13,Eve,West,49.69857143,24,1192.765714,Returning,44.064,0.21,Bank Transfer,Retail,West-Eve
+1099,2023-10-13,Charlie,North,66.89914286,14,936.588,Returning,57.04685714,0.22,Credit Card,Online,North-Charlie
+1002,2023-10-14,David,South,39.69571429,39,1548.132857,New,28.706,0.24,Bank Transfer,Online,South-David
+1076,2023-10-14,Charlie,South,56.69542857,23,1303.994857,Returning,49.36514286,0.24,Bank Transfer,Online,South-Charlie
+1025,2023-10-15,David,North,49.08485714,44,2159.733714,New,42.44914286,0.02,Credit Card,Retail,North-David
+1035,2023-10-15,David,North,23.10542857,1,23.10542857,New,17.45228571,0.22,Credit Card,Online,North-David
+1038,2023-10-15,David,West,79.04314286,31,2450.337429,New,77.424,0.19,Cash,Retail,West-David
+1048,2023-10-15,Charlie,North,95.69628571,42,4019.244,Returning,89.714,0.13,Credit Card,Retail,North-Charlie
+1069,2023-10-15,Bob,West,114.5137143,46,5267.630857,New,104.6717143,0.13,Cash,Online,West-Bob
+1090,2023-10-15,Charlie,South,150.0877143,48,7204.210286,Returning,136.1865714,0.01,Bank Transfer,Online,South-Charlie
+1099,2023-10-15,David,East,114.4,39,4461.6,New,102.654,0.13,Cash,Online,East-David
+1015,2023-10-16,Charlie,North,85.92942857,23,1976.376857,Returning,83.94114286,0.03,Cash,Retail,North-Charlie
+1016,2023-10-16,Eve,West,101.8742857,11,1120.617143,Returning,88.41628571,0.1,Credit Card,Retail,West-Eve
+1051,2023-10-16,Alice,West,19.04685714,43,819.0148571,Returning,8.228285714,0,Bank Transfer,Online,West-Alice
+1053,2023-10-16,Bob,North,13.93285714,48,668.7771429,New,3.462571429,0.18,Cash,Retail,North-Bob
+1055,2023-10-16,David,East,122.71,46,5644.66,Returning,119.2434286,0.03,Bank Transfer,Retail,East-David
+1061,2023-10-16,Eve,East,142.4111429,37,5269.212286,Returning,132.9077143,0.12,Cash,Retail,East-Eve
+1063,2023-10-16,Charlie,North,34.32542857,4,137.3017143,New,32.41914286,0.3,Bank Transfer,Retail,North-Charlie
+1059,2023-10-18,Alice,North,20.43028571,28,572.048,Returning,6.409142857,0.01,Credit Card,Online,North-Alice
+1088,2023-10-18,Eve,West,86.878,16,1390.048,New,86.19714286,0.26,Bank Transfer,Retail,West-Eve
+1089,2023-10-18,David,North,123.532,15,1852.98,Returning,109.7442857,0.29,Credit Card,Retail,North-David
+1098,2023-10-18,Eve,West,23.68428571,21,497.37,New,20.71514286,0.18,Bank Transfer,Online,West-Eve
+1049,2023-10-19,Eve,South,135.7782857,30,4073.348571,New,134.2125714,0.28,Credit Card,Online,South-Eve
+1089,2023-10-19,Eve,West,74.21914286,23,1707.040286,Returning,60.58685714,0.26,Credit Card,Retail,West-Eve
+1002,2023-10-20,David,North,136.6937143,30,4100.811429,Returning,132.7585714,0.1,Credit Card,Retail,North-David
+1013,2023-10-20,David,East,47.72457143,46,2195.330286,Returning,47.10857143,0.09,Credit Card,Retail,East-David
+1036,2023-10-20,David,North,40.84114286,49,2001.216,New,35.63142857,0.16,Cash,Online,North-David
+1043,2023-10-20,Charlie,South,21.69485714,22,477.2868571,Returning,15.144,0.17,Bank Transfer,Retail,South-Charlie
+1048,2023-10-20,Alice,South,116.0391429,6,696.2348571,New,106.2085714,0.03,Bank Transfer,Retail,South-Alice
+1086,2023-10-20,David,South,14.77657143,32,472.8502857,Returning,2.424571429,0.2,Credit Card,Retail,South-David
+1096,2023-10-20,David,South,96.77742857,10,967.7742857,Returning,83.62914286,0.12,Cash,Retail,South-David
+1099,2023-10-20,David,South,5.189142857,23,119.3502857,Returning,2.67,0.3,Bank Transfer,Retail,South-David
+1013,2023-10-21,David,East,47.13542857,20,942.7085714,Returning,43.81028571,0.1,Bank Transfer,Online,East-David
+1073,2023-10-21,Alice,West,84.53,45,3803.85,New,73.08828571,0.08,Cash,Online,West-Alice
+1012,2023-10-22,David,North,72.05057143,34,2449.719429,New,70.35857143,0.21,Bank Transfer,Retail,North-David
+1057,2023-10-22,Eve,South,106.3774286,40,4255.097143,New,92.382,0.22,Bank Transfer,Retail,South-Eve
+1060,2023-10-22,Bob,North,118.386,11,1302.246,Returning,104.2297143,0.17,Credit Card,Retail,North-Bob
+1099,2023-10-22,Bob,West,36.65828571,43,1576.306286,New,25.89914286,0.24,Cash,Online,West-Bob
+1023,2023-10-23,David,South,10.01085714,42,420.456,Returning,8.850857143,0.19,Credit Card,Retail,South-David
+1054,2023-10-23,David,East,119.3445714,8,954.7565714,Returning,117.6322857,0.25,Bank Transfer,Retail,East-David
+1054,2023-10-23,David,South,125.4762857,48,6022.861714,Returning,123.572,0.16,Credit Card,Retail,South-David
+1060,2023-10-23,Bob,West,52.29342857,46,2405.497714,New,49.91571429,0.15,Bank Transfer,Retail,West-Bob
+1073,2023-10-23,Charlie,South,125.1968571,45,5633.858571,Returning,124.8428571,0.02,Credit Card,Retail,South-Charlie
+1026,2023-10-24,David,East,61.996,45,2789.82,Returning,49.76171429,0.14,Credit Card,Online,East-David
+1087,2023-10-24,Bob,East,16.27514286,28,455.704,New,15.76657143,0.13,Credit Card,Retail,East-Bob
+1097,2023-10-26,Alice,East,144.186,27,3893.022,Returning,133.9082857,0.05,Credit Card,Retail,East-Alice
+1087,2023-10-27,Eve,North,97.81885714,27,2641.109143,New,89.696,0.18,Credit Card,Online,North-Eve
+1089,2023-10-27,David,North,119.628,43,5144.004,Returning,110.0414286,0.3,Credit Card,Online,North-David
+1033,2023-10-28,David,North,138.9811429,43,5976.189143,Returning,136.612,0.25,Bank Transfer,Online,North-David
+1079,2023-10-28,Bob,West,36.16171429,38,1374.145143,Returning,32.22171429,0.26,Bank Transfer,Retail,West-Bob
+1081,2023-10-28,Charlie,North,47.86714286,23,1100.944286,New,40.32485714,0.21,Cash,Retail,North-Charlie
+1091,2023-10-28,Bob,West,72.58342857,39,2830.753714,Returning,62.414,0.27,Bank Transfer,Online,West-Bob
+1017,2023-10-29,Eve,East,21.49257143,1,21.49257143,New,18.33371429,0.22,Bank Transfer,Online,East-Eve
+1019,2023-10-29,David,West,19.57428571,31,606.8028571,New,9.534,0.04,Bank Transfer,Online,West-David
+1034,2023-10-29,David,North,29.72028571,34,1010.489714,New,27.94714286,0.12,Credit Card,Retail,North-David
+1044,2023-10-29,Charlie,North,62.75142857,11,690.2657143,New,51.79028571,0.08,Cash,Online,North-Charlie
+1054,2023-10-29,David,West,109.0854286,8,872.6834286,Returning,103.1488571,0.15,Cash,Retail,West-David
+1029,2023-10-30,Eve,East,78.87428571,16,1261.988571,Returning,73.50857143,0.15,Credit Card,Retail,East-Eve
+1049,2023-10-30,Alice,East,127.8431429,38,4858.039429,New,121.2565714,0.01,Credit Card,Online,East-Alice
+1053,2023-10-30,David,North,70.73028571,1,70.73028571,New,64.52685714,0.25,Cash,Online,North-David
+1071,2023-10-30,Alice,West,91.02314286,22,2002.509143,New,77.18257143,0.01,Bank Transfer,Online,West-Alice
+1097,2023-10-30,Eve,West,123.3005714,49,6041.728,New,121.8417143,0.07,Cash,Retail,West-Eve
+1033,2023-10-31,Eve,East,101.522,18,1827.396,Returning,89.27085714,0.12,Cash,Retail,East-Eve
+1009,2023-11-01,Bob,South,27.39314286,14,383.504,Returning,15.65114286,0.07,Credit Card,Retail,South-Bob
+1026,2023-11-01,Alice,South,96.75228571,36,3483.082286,New,87.63,0.2,Bank Transfer,Online,South-Alice
+1028,2023-11-01,Bob,East,34.70171429,24,832.8411429,New,26.03171429,0.22,Bank Transfer,Online,East-Bob
+1062,2023-11-01,Bob,East,33.35228571,36,1200.682286,New,30.01828571,0.22,Cash,Online,East-Bob
+1093,2023-11-01,Charlie,North,21.636,46,995.256,New,11.47542857,0.21,Credit Card,Retail,North-Charlie
+1096,2023-11-01,Bob,South,87.71257143,17,1491.113714,Returning,79.264,0.23,Bank Transfer,Retail,South-Bob
+1069,2023-11-02,Charlie,North,28.21171429,23,648.8694286,Returning,15.14971429,0.23,Credit Card,Online,North-Charlie
+1028,2023-11-03,Alice,North,43.17885714,38,1640.796571,New,35.27685714,0.1,Bank Transfer,Online,North-Alice
+1058,2023-11-03,David,West,105.7954286,42,4443.408,Returning,102.8842857,0.01,Cash,Retail,West-David
+1065,2023-11-05,Alice,East,124.6411429,3,373.9234286,New,119.2297143,0.23,Bank Transfer,Retail,East-Alice
+1072,2023-11-05,David,West,26.68685714,39,1040.787429,New,16.91371429,0.26,Bank Transfer,Retail,West-David
+1075,2023-11-05,Bob,East,54.47542857,37,2015.590857,New,47.87171429,0.13,Bank Transfer,Online,East-Bob
+1086,2023-11-05,Alice,South,73.68,10,736.8,New,64.96885714,0.14,Cash,Online,South-Alice
+1087,2023-11-05,Eve,East,25.208,30,756.24,Returning,19.964,0.15,Credit Card,Online,East-Eve
+1006,2023-11-06,Bob,South,31.39914286,22,690.7811429,Returning,23.83771429,0.17,Cash,Online,South-Bob
+1062,2023-11-06,David,East,74.74828571,25,1868.707143,New,67.45857143,0.3,Bank Transfer,Retail,East-David
+1071,2023-11-06,David,North,118.3454286,47,5562.235143,Returning,112.6382857,0.03,Credit Card,Retail,North-David
+1088,2023-11-06,David,South,55.294,8,442.352,New,51.03857143,0.04,Cash,Online,South-David
+1057,2023-11-07,Bob,East,37.384,26,971.984,Returning,36.90914286,0.07,Credit Card,Online,East-Bob
+1089,2023-11-07,Bob,West,123.2731429,47,5793.837714,New,118.7891429,0.17,Bank Transfer,Retail,West-Bob
+1095,2023-11-07,Charlie,West,129.2388571,32,4135.643429,New,121.904,0.3,Bank Transfer,Retail,West-Charlie
+1098,2023-11-07,Alice,West,71.50742857,31,2216.730286,Returning,68.79428571,0.27,Cash,Retail,West-Alice
+1052,2023-11-08,Charlie,East,106.3537143,18,1914.366857,Returning,93.47485714,0.19,Bank Transfer,Retail,East-Charlie
+1059,2023-11-08,David,South,62.44057143,17,1061.489714,Returning,50.86114286,0.15,Credit Card,Retail,South-David
+1014,2023-11-09,David,North,9.039714286,9,81.35742857,New,3.784857143,0.14,Credit Card,Online,North-David
+1016,2023-11-09,Charlie,South,9.684,24,232.416,New,2.526857143,0.29,Cash,Online,South-Charlie
+1032,2023-11-09,Bob,East,95.35428571,25,2383.857143,Returning,83.83714286,0.25,Credit Card,Retail,East-Bob
+1033,2023-11-09,David,East,48.21428571,6,289.2857143,Returning,46.31628571,0.12,Credit Card,Online,East-David
+1038,2023-11-09,David,East,48.84885714,1,48.84885714,Returning,36.61857143,0.14,Credit Card,Online,East-David
+1019,2023-11-10,Bob,East,42.46542857,33,1401.359143,Returning,38.92314286,0.18,Credit Card,Retail,East-Bob
+1090,2023-11-10,Alice,North,64.66742857,16,1034.678857,Returning,62.382,0,Bank Transfer,Retail,North-Alice
+1024,2023-11-11,Eve,West,18.31685714,21,384.654,Returning,17.77171429,0,Bank Transfer,Retail,West-Eve
+1080,2023-11-11,Alice,East,107.2522857,32,3432.073143,New,97.55828571,0.22,Cash,Retail,East-Alice
+1001,2023-11-12,Alice,North,106.5505714,8,852.4045714,New,104.5117143,0.09,Bank Transfer,Retail,North-Alice
+1005,2023-11-12,Eve,East,108.9565714,28,3050.784,New,102.6377143,0.07,Credit Card,Retail,East-Eve
+1062,2023-11-12,Eve,South,52.52028571,9,472.6825714,New,41.94428571,0.15,Bank Transfer,Retail,South-Eve
+1070,2023-11-12,Bob,South,12.90885714,9,116.1797143,Returning,8.864,0.1,Cash,Retail,South-Bob
+1050,2023-11-13,Alice,North,55.74971429,28,1560.992,New,48.90371429,0.22,Cash,Online,North-Alice
+1001,2023-11-14,David,North,19.49257143,36,701.7325714,New,19.05257143,0.16,Bank Transfer,Retail,North-David
+1012,2023-11-14,Eve,North,116.6462857,6,699.8777143,Returning,103.1262857,0.3,Bank Transfer,Retail,North-Eve
+1012,2023-11-14,David,North,36.32714286,14,508.58,Returning,33.87142857,0.03,Bank Transfer,Retail,North-David
+1033,2023-11-14,David,South,96.01142857,23,2208.262857,Returning,85.18571429,0.22,Bank Transfer,Retail,South-David
+1068,2023-11-14,Charlie,West,44.75314286,42,1879.632,Returning,34.80514286,0.03,Credit Card,Retail,West-Charlie
+1085,2023-11-14,Charlie,South,42.64228571,32,1364.553143,Returning,30.71228571,0.04,Credit Card,Retail,South-Charlie
+1090,2023-11-14,Bob,East,7.449428571,1,7.449428571,Returning,1.722285714,0.17,Cash,Online,East-Bob
+1092,2023-11-14,Eve,East,124.6431429,28,3490.008,Returning,112.4768571,0.07,Credit Card,Retail,East-Eve
+1030,2023-11-15,Eve,East,42.35942857,24,1016.626286,Returning,39.15771429,0.2,Credit Card,Retail,East-Eve
+1032,2023-11-15,Alice,West,24.736,1,24.736,Returning,18.6,0.09,Bank Transfer,Retail,West-Alice
+1036,2023-11-15,Bob,West,91.85714286,19,1745.285714,Returning,81.28485714,0.09,Credit Card,Retail,West-Bob
+1051,2023-11-15,Alice,North,59.50057143,23,1368.513143,New,47.89771429,0.15,Bank Transfer,Retail,North-Alice
+1092,2023-11-15,David,East,96.45114286,47,4533.203714,New,86.69485714,0.28,Credit Card,Online,East-David
+1100,2023-11-15,Eve,East,33.98142857,2,67.96285714,New,29.62171429,0.27,Bank Transfer,Online,East-Eve
+1015,2023-11-16,Eve,East,86.50685714,1,86.50685714,New,83.67828571,0.15,Bank Transfer,Retail,East-Eve
+1041,2023-11-16,David,South,30.50085714,40,1220.034286,New,17.196,0.18,Cash,Online,South-David
+1051,2023-11-16,Bob,West,5.008285714,31,155.2568571,New,4.139428571,0.07,Bank Transfer,Online,West-Bob
+1073,2023-11-16,David,South,81.09342857,48,3892.484571,New,75.96857143,0.25,Credit Card,Online,South-David
+1078,2023-11-16,David,East,104.4922857,8,835.9382857,Returning,98.846,0.03,Bank Transfer,Online,East-David
+1088,2023-11-16,Eve,North,71.93142857,13,935.1085714,New,69.71742857,0.23,Bank Transfer,Retail,North-Eve
+1062,2023-11-17,Charlie,North,61.96885714,28,1735.128,Returning,59.85371429,0.08,Cash,Retail,North-Charlie
+1100,2023-11-17,Bob,East,20.934,13,272.142,New,10.46285714,0.04,Cash,Retail,East-Bob
+1004,2023-11-18,Alice,East,6.033714286,1,6.033714286,Returning,5.228285714,0.27,Bank Transfer,Retail,East-Alice
+1062,2023-11-18,Alice,East,44.14285714,12,529.7142857,Returning,31.114,0.04,Bank Transfer,Retail,East-Alice
+1033,2023-11-19,David,North,83.93057143,37,3105.431143,New,74.30742857,0.17,Credit Card,Retail,North-David
+1040,2023-11-19,David,North,74.77142857,47,3514.257143,New,62.55828571,0.01,Bank Transfer,Online,North-David
+1045,2023-11-19,Bob,North,28.37828571,2,56.75657143,Returning,26.05942857,0.09,Credit Card,Online,North-Bob
+1012,2023-11-20,Bob,North,129.3934286,1,129.3934286,Returning,119.738,0.22,Bank Transfer,Online,North-Bob
+1028,2023-11-20,Alice,East,28.32028571,5,141.6014286,Returning,20.99771429,0.21,Credit Card,Online,East-Alice
+1036,2023-11-20,Alice,East,32.18628571,32,1029.961143,New,20.014,0.29,Credit Card,Retail,East-Alice
+1084,2023-11-20,Bob,South,100.3925714,15,1505.888571,New,97.73485714,0.02,Cash,Online,South-Bob
+1090,2023-11-20,Alice,West,90.06514286,32,2882.084571,Returning,76.54257143,0.22,Cash,Retail,West-Alice
+1014,2023-11-22,David,West,91.54314286,17,1556.233429,New,90.99,0.2,Bank Transfer,Online,West-David
+1058,2023-11-22,Alice,West,38.182,15,572.73,Returning,25.55657143,0.26,Cash,Retail,West-Alice
+1093,2023-11-22,Charlie,North,103.8451429,22,2284.593143,New,93.86428571,0.13,Bank Transfer,Online,North-Charlie
+1016,2023-11-23,Eve,East,141.554,26,3680.404,New,140.1957143,0.25,Bank Transfer,Online,East-Eve
+1003,2023-11-24,Eve,East,110.3502857,11,1213.853143,New,105.908,0.22,Credit Card,Retail,East-Eve
+1021,2023-11-24,Eve,North,120.3585714,15,1805.378571,Returning,107.7505714,0.16,Credit Card,Retail,North-Eve
+1022,2023-11-24,Eve,West,25.99657143,29,753.9005714,Returning,13.70228571,0.13,Credit Card,Retail,West-Eve
+1024,2023-11-24,Alice,South,135.7965714,22,2987.524571,Returning,134.0377143,0.07,Bank Transfer,Retail,South-Alice
+1065,2023-11-24,Bob,East,36.39942857,18,655.1897143,New,35.40257143,0.02,Bank Transfer,Retail,East-Bob
+1071,2023-11-24,Alice,West,132.474,12,1589.688,New,123.37,0.18,Credit Card,Retail,West-Alice
+1072,2023-11-24,Alice,East,19.81142857,25,495.2857143,New,13.74828571,0.27,Credit Card,Retail,East-Alice
+1074,2023-11-25,Eve,North,74.62685714,42,3134.328,Returning,60.59457143,0.23,Cash,Online,North-Eve
+1095,2023-11-25,Alice,East,24.59857143,37,910.1471429,New,11.65057143,0.1,Credit Card,Retail,East-Alice
+1030,2023-11-26,Alice,West,65.69628571,39,2562.155143,Returning,58.33571429,0.24,Bank Transfer,Retail,West-Alice
+1043,2023-11-26,Bob,South,62.46914286,3,187.4074286,New,57.40285714,0.25,Bank Transfer,Online,South-Bob
+1051,2023-11-26,Eve,South,121.6434286,8,973.1474286,New,113.4391429,0.11,Cash,Retail,South-Eve
+1070,2023-11-26,David,North,93.09857143,40,3723.942857,New,88.28457143,0.29,Cash,Online,North-David
+1095,2023-11-26,Charlie,West,124.4534286,7,871.174,Returning,121.6354286,0.03,Bank Transfer,Online,West-Charlie
+1021,2023-11-27,Alice,South,69.76542857,31,2162.728286,Returning,64.42828571,0.24,Bank Transfer,Online,South-Alice
+1005,2023-11-28,David,West,40.87,43,1757.41,New,34.29714286,0.08,Bank Transfer,Retail,West-David
+1044,2023-11-28,Charlie,West,109.7211429,6,658.3268571,New,105.8265714,0.07,Credit Card,Online,West-Charlie
+1089,2023-11-28,David,West,132.2851429,8,1058.281143,Returning,124.2668571,0.01,Credit Card,Online,West-David
+1002,2023-11-29,David,North,102.8362857,24,2468.070857,New,94.45542857,0.09,Credit Card,Retail,North-David
+1086,2023-11-29,Bob,West,33.77142857,7,236.4,New,21.08285714,0.23,Credit Card,Retail,West-Bob
+1082,2023-11-30,Alice,South,41.28485714,41,1692.679143,Returning,34.18342857,0.21,Bank Transfer,Online,South-Alice
+1055,2023-12-01,Charlie,West,109.6691429,8,877.3531429,Returning,100.3714286,0.13,Bank Transfer,Online,West-Charlie
+1073,2023-12-01,David,West,85.92771429,40,3437.108571,Returning,73.29428571,0.17,Credit Card,Retail,West-David
+1096,2023-12-01,Bob,East,59.04285714,20,1180.857143,Returning,56.99714286,0.06,Bank Transfer,Online,East-Bob
+1100,2023-12-01,Alice,East,154.3508571,34,5247.929143,Returning,142.6025714,0,Cash,Retail,East-Alice
+1077,2023-12-02,David,East,69.69971429,24,1672.793143,Returning,64.52971429,0.2,Credit Card,Retail,East-David
+1011,2023-12-03,Bob,East,53.78771429,13,699.2402857,Returning,41.21971429,0.28,Cash,Online,East-Bob
+1069,2023-12-03,David,North,92.13828571,35,3224.84,New,82.43314286,0.14,Cash,Online,North-David
+1092,2023-12-03,David,East,21.07114286,6,126.4268571,Returning,12.07828571,0.19,Credit Card,Retail,East-David
+1014,2023-12-04,Bob,West,22.83628571,49,1118.978,New,14.09571429,0.1,Bank Transfer,Online,West-Bob
+1063,2023-12-04,David,South,74.43885714,14,1042.144,Returning,62.52428571,0.2,Credit Card,Retail,South-David
+1008,2023-12-05,Charlie,East,12.26542857,27,331.1665714,Returning,1.971142857,0.18,Credit Card,Retail,East-Charlie
+1094,2023-12-05,Eve,East,20.00714286,12,240.0857143,Returning,9.523428571,0.14,Cash,Online,East-Eve
+1073,2023-12-06,Alice,North,134.1957143,31,4160.067143,Returning,124.8277143,0.25,Bank Transfer,Retail,North-Alice
+1085,2023-12-06,Eve,North,90.28228571,42,3791.856,New,89.07857143,0.04,Cash,Retail,North-Eve
+1099,2023-12-07,Bob,East,72.37257143,22,1592.196571,Returning,70.61914286,0.02,Bank Transfer,Retail,East-Bob
+1008,2023-12-08,Alice,South,96.73171429,49,4739.854,New,83.06342857,0.13,Cash,Online,South-Alice
+1031,2023-12-08,David,North,125.2091429,22,2754.601143,New,121.03,0.2,Bank Transfer,Online,North-David
+1095,2023-12-08,Eve,East,101.5814286,4,406.3257143,New,91.17285714,0.28,Credit Card,Online,East-Eve
+1020,2023-12-10,Bob,North,130.0457143,45,5852.057143,New,121.9557143,0.08,Bank Transfer,Online,North-Bob
+1036,2023-12-10,David,North,90.39142857,7,632.74,Returning,82.35,0.05,Cash,Retail,North-David
+1037,2023-12-10,Bob,North,87.84542857,32,2811.053714,New,74.11657143,0.14,Cash,Retail,North-Bob
+1062,2023-12-10,David,West,36.94114286,11,406.3525714,Returning,34.00228571,0.13,Cash,Retail,West-David
+1098,2023-12-10,Eve,East,115.8697143,28,3244.352,New,111.3034286,0.03,Bank Transfer,Retail,East-Eve
+1045,2023-12-11,Alice,West,17.51685714,22,385.3708571,Returning,6.91,0.06,Cash,Online,West-Alice
+1051,2023-12-12,Eve,North,22.63457143,8,181.0765714,New,13.346,0.2,Credit Card,Online,North-Eve
+1053,2023-12-12,Alice,South,105.6028571,47,4963.334286,Returning,101.4788571,0.15,Bank Transfer,Retail,South-Alice
+1070,2023-12-13,Alice,West,119.0557143,8,952.4457143,Returning,107.4934286,0.16,Bank Transfer,Online,West-Alice
+1092,2023-12-13,Charlie,North,77.02914286,15,1155.437143,New,64.968,0.3,Cash,Online,North-Charlie
+1070,2023-12-14,Charlie,South,25.098,33,828.234,New,24.75485714,0.09,Cash,Retail,South-Charlie
+1012,2023-12-15,Bob,West,74.18885714,13,964.4551429,Returning,63.76171429,0.09,Bank Transfer,Retail,West-Bob
+1019,2023-12-15,David,East,44.79771429,36,1612.717714,New,38.30028571,0.29,Cash,Online,East-David
+1043,2023-12-15,David,West,23.97057143,6,143.8234286,New,16.10257143,0.17,Credit Card,Online,West-David
+1045,2023-12-15,David,South,107.026,42,4495.092,Returning,102.5068571,0.1,Cash,Online,South-David
+1061,2023-12-15,Alice,North,91.23571429,32,2919.542857,New,78.836,0.2,Bank Transfer,Online,North-Alice
+1076,2023-12-15,Bob,West,77.05085714,32,2465.627429,New,75.32457143,0.09,Cash,Retail,West-Bob
+1060,2023-12-16,Eve,East,122.1997143,44,5376.787429,New,108.1417143,0.06,Bank Transfer,Retail,East-Eve
+1074,2023-12-16,Bob,North,12.08942857,19,229.6991429,New,7.962,0.24,Credit Card,Online,North-Bob
+1076,2023-12-16,Eve,East,107.8471429,30,3235.414286,New,100.5608571,0.2,Credit Card,Retail,East-Eve
+1014,2023-12-18,David,East,31.864,4,127.456,New,24.41942857,0.24,Credit Card,Retail,East-David
+1073,2023-12-18,Eve,West,12.47228571,40,498.8914286,New,4.49,0.04,Cash,Retail,West-Eve
+1029,2023-12-19,Eve,North,91.45,21,1920.45,New,88.14571429,0.21,Cash,Retail,North-Eve
+1043,2023-12-19,Eve,South,145.1337143,12,1741.604571,New,140.5845714,0.21,Credit Card,Retail,South-Eve
+1063,2023-12-19,Charlie,West,78.31228571,46,3602.365143,Returning,65.78914286,0.25,Bank Transfer,Online,West-Charlie
+1064,2023-12-19,Alice,West,146.2522857,35,5118.83,Returning,140.0008571,0.07,Credit Card,Retail,West-Alice
+1088,2023-12-19,Alice,East,145.3794286,20,2907.588571,New,131.1497143,0.16,Bank Transfer,Retail,East-Alice
+1008,2023-12-20,Charlie,West,66.27485714,23,1524.321714,Returning,65.62657143,0.23,Bank Transfer,Retail,West-Charlie
+1058,2023-12-20,David,North,73.10514286,2,146.2102857,New,64.31171429,0.09,Credit Card,Retail,North-David
+1069,2023-12-20,Eve,North,143.8971429,12,1726.765714,New,133.7811429,0.2,Bank Transfer,Retail,North-Eve
+1100,2023-12-20,David,West,106.954,39,4171.206,New,105.2865714,0.01,Bank Transfer,Online,West-David
+1053,2023-12-21,Bob,North,63.35742857,44,2787.726857,Returning,58.42857143,0.08,Credit Card,Online,North-Bob
+1001,2023-12-22,David,West,48.22371429,45,2170.067143,New,39.21028571,0.02,Credit Card,Online,West-David
+1004,2023-12-22,Eve,North,139.5511429,11,1535.062571,New,138.2951429,0.13,Cash,Online,North-Eve
+1025,2023-12-22,Bob,South,43.29971429,11,476.2968571,Returning,35.73114286,0.21,Bank Transfer,Retail,South-Bob
+1052,2023-12-22,Charlie,West,114.7974286,2,229.5948571,Returning,107.2194286,0.16,Bank Transfer,Online,West-Charlie
+1052,2023-12-22,Charlie,West,45.32257143,18,815.8062857,New,32.22457143,0.04,Credit Card,Online,West-Charlie
+1061,2023-12-22,Alice,North,52.70857143,45,2371.885714,Returning,38.986,0.18,Cash,Online,North-Alice
+1017,2023-12-23,Alice,East,56.97171429,33,1880.066571,Returning,44.32142857,0.08,Cash,Online,East-Alice
+1023,2023-12-23,Bob,East,99.51857143,47,4677.372857,Returning,96.42057143,0.18,Cash,Online,East-Bob
+1005,2023-12-25,Alice,South,62.09914286,28,1738.776,Returning,61.32114286,0.1,Cash,Retail,South-Alice
+1010,2023-12-25,David,South,100.2325714,30,3006.977143,New,93.97171429,0.17,Bank Transfer,Retail,South-David
+1047,2023-12-25,David,North,49.34714286,43,2121.927143,New,35.69057143,0.08,Cash,Retail,North-David
+1056,2023-12-25,Bob,North,40.24,25,1006,Returning,32.97942857,0.29,Bank Transfer,Retail,North-Bob
+1089,2023-12-25,Eve,South,134.4771429,32,4303.268571,New,121.3857143,0.01,Bank Transfer,Retail,South-Eve
+1024,2023-12-26,David,North,121.972,17,2073.524,Returning,117.5617143,0.27,Bank Transfer,Retail,North-David
+1032,2023-12-26,David,South,120.8571429,11,1329.428571,New,117.1605714,0.29,Bank Transfer,Online,South-David
+1072,2023-12-26,Charlie,North,59.26428571,23,1363.078571,New,47.50942857,0.12,Bank Transfer,Online,North-Charlie
+1099,2023-12-26,Eve,West,122.6768571,25,3066.921429,New,118.528,0.11,Bank Transfer,Online,West-Eve
+1056,2023-12-27,Bob,East,47.06428571,4,188.2571429,Returning,46.08057143,0.04,Credit Card,Retail,East-Bob
+1057,2023-12-27,Bob,South,70.09571429,31,2172.967143,Returning,68.66171429,0.19,Credit Card,Online,South-Bob
+1071,2023-12-27,David,East,53.59285714,40,2143.714286,New,41.36342857,0.13,Cash,Retail,East-David
+1065,2023-12-28,David,West,126.6011429,18,2278.820571,New,123.8451429,0.02,Bank Transfer,Retail,West-David
+1086,2023-12-28,Bob,West,15.03257143,46,691.4982857,Returning,2.396,0.11,Credit Card,Online,West-Bob
+1022,2023-12-29,David,North,58.40114286,10,584.0114286,New,52.30314286,0.11,Cash,Online,North-David
+1024,2023-12-29,Eve,North,106.1291429,5,530.6457143,Returning,97.65428571,0.27,Credit Card,Retail,North-Eve
+1049,2023-12-29,Charlie,South,96.60628571,38,3671.038857,Returning,84.16914286,0.23,Cash,Retail,South-Charlie
+1058,2023-12-29,David,North,93.52057143,34,3179.699429,Returning,90.30314286,0.08,Credit Card,Retail,North-David
+1003,2023-12-30,Alice,East,19.33314286,17,328.6634286,Returning,11.28885714,0.25,Cash,Retail,East-Alice
+1025,2023-12-30,David,West,64.88542857,28,1816.792,New,59.93828571,0.13,Credit Card,Retail,West-David
+1065,2023-12-30,David,South,14.23742857,9,128.1368571,New,9.594857143,0.26,Cash,Retail,South-David
+1099,2023-12-30,Bob,West,96.67628571,29,2803.612286,New,89.282,0.05,Credit Card,Retail,West-Bob
+1003,2023-12-31,Alice,South,122.0185714,30,3660.557143,New,119.7222857,0.2,Cash,Online,South-Alice
+1058,2023-12-31,Alice,West,63.36571429,44,2788.091429,New,54.58485714,0.22,Bank Transfer,Online,West-Alice
+1086,2023-12-31,Alice,South,111.1531429,33,3668.053714,Returning,97.69514286,0.21,Cash,Retail,South-Alice
+1090,2023-12-31,Eve,West,133.5971429,46,6145.468571,New,133.2891429,0.19,Cash,Retail,West-Eve
+1094,2023-12-31,Bob,South,123.962,15,1859.43,Returning,117.4837143,0.26,Credit Card,Online,South-Bob
+1018,2024-01-01,Alice,West,49.42314286,24,1186.155429,New,38.93657143,0.29,Bank Transfer,Online,West-Alice
+1078,2024-01-01,David,East,8.998,42,377.916,Returning,1.811714286,0.03,Cash,Retail,East-David
+1098,2024-01-01,Bob,South,14.38171429,11,158.1988571,Returning,6.097428571,0.27,Bank Transfer,Online,South-Bob
